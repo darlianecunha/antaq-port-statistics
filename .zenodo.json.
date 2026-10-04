@@ -1,0 +1,17 @@
+{
+  "title": "Brazil Port Data: consolidated ANTAQ port statistics, 2010-2026",
+  "upload_type": "dataset",
+  "version": "1.0",
+  "description": "<p>Annual cargo (tonnes, by navigation type), berthings and mean port times (waiting, operation, at berth, total stay) for 247 Brazilian port installations, 2010 to February 2026, aggregated from ANTAQ's Estatístico Aquaviário open data with the same movement filter as the agency's public panel, so national totals match the official figures. Includes national totals 2021-2025 by cargo nature, direction, installation type, navigation type, state and partner country. Data behind brazilportdata.com and the port-emissions-mcp server. 2026 rows are partial.</p>",
+  "creators": [
+    {"name": "Cunha, Darliane Ribeiro", "orcid": "0000-0003-2548-1237", "affiliation": "Universidade Federal do Maranhão"}
+  ],
+  "keywords": ["ports", "Brazil", "ANTAQ", "port statistics", "maritime transport", "cargo throughput", "berthing", "waiting time", "port performance", "open data"],
+  "license": "odbl-1.0",
+  "access_right": "open",
+  "language": "eng",
+  "related_identifiers": [
+    {"identifier": "https://brazilportdata.com", "relation": "isSupplementTo", "resource_type": "other"},
+    {"identifier": "10.5281/zenodo.20708090", "relation": "isRelatedTo", "resource_type": "software"}
+  ]
+}
