@@ -1,0 +1,2893 @@
+ano,complexo,codigo,org,atracacoes
+2010,Almeirim,BRPA002,0,38
+2010,Almeirim,BRPA004,0,50
+2010,Angra dos Reis,BRADR,1,88
+2010,Angra dos Reis,BRRJ009,0,306
+2010,Angra dos Reis,BRRJ012,0,11
+2010,Aracajú,BRSE001,0,30
+2010,Aracajú,BRSE002,0,96
+2010,Aratu - Salvador,BRARB,1,616
+2010,Aratu - Salvador,BRBA002,0,95
+2010,Aratu - Salvador,BRBA003,0,684
+2010,Aratu - Salvador,BRBA006,0,10
+2010,Aratu - Salvador,BRBA007,0,71
+2010,Aratu - Salvador,BRBA008,0,78
+2010,Aratu - Salvador,BRSSA,1,624
+2010,Areia Branca,BRARE,1,1340
+2010,Barra do Riacho,BRES006,0,787
+2010,Barra do Riacho,BRES008,0,32
+2010,Cabedelo (Instalação Isolada),BRCDO,1,133
+2010,Coari (Instalação Isolada),BRAM009,0,499
+2010,Corumbá,BRMS001,0,729
+2010,Corumbá,BRMS002,0,1011
+2010,Corumbá,BRMS003,0,825
+2010,Corumbá,BRMS005,0,7
+2010,Estrela,BRRS011,0,183
+2010,Forno,BRFNO,1,13
+2010,Ilhéus,BRBA004,0,425
+2010,Ilhéus,BRBA005,0,115
+2010,Ilhéus,BRIOS,1,14
+2010,Imbituba,BRIBB,1,186
+2010,Itaguaí,BRIGI,1,879
+2010,Itaguaí,BRRJ001,0,216
+2010,Itaguaí,BRRJ016,0,32
+2010,Itajaí,BRITJ,1,458
+2010,Itajaí,BRSC001,0,30
+2010,Itajaí,BRSC008,0,599
+2010,Itajaí,BRSC012,0,41
+2010,Itajaí,BRSC015,0,16
+2010,Itaqui,BRIQI,1,635
+2010,Itaqui,BRMA001,0,287
+2010,Itaqui,BRMA002,0,534
+2010,Macapá,BRAP003,0,151
+2010,Macapá,BRAP004,0,92
+2010,Macapá,BRMCP,1,135
+2010,Maceió,BRAL001,0,92
+2010,Maceió,BRMCZ,1,258
+2010,Manaus,BRAM001,0,1500
+2010,Manaus,BRAM003,0,15
+2010,Manaus,BRAM004,0,1019
+2010,Manaus,BRAM006,0,84
+2010,Manaus,BRAM007,0,1541
+2010,Manaus,BRAM008,0,710
+2010,Manaus,BRAM010,0,57
+2010,Manaus,BRAM011,0,860
+2010,Manaus,BRAM012,0,297
+2010,Manaus,BRAM013,0,7
+2010,Manaus,BRAM014,0,1325
+2010,Manaus,BRAM015,0,418
+2010,Manaus,BRAM016,0,1139
+2010,Natal,BRNAT,1,61
+2010,Natal,BRRN001,0,56
+2010,Natal,BRRN002,0,56
+2010,Paranaguá - Antonina,BRANT,1,30
+2010,Paranaguá - Antonina,BRPNG,1,1945
+2010,Paranaguá - Antonina,BRPR002,0,188
+2010,Pecém - Fortaleza,BRCE001,0,524
+2010,Pecém - Fortaleza,BRFOR,1,511
+2010,Porto Alegre,BRPOA,1,218
+2010,Porto Alegre,BRRS003,0,252
+2010,Porto Alegre,BRRS006,0,308
+2010,Porto Alegre,BRRS008,0,203
+2010,Porto Alegre,BRRS009,0,211
+2010,Porto Alegre,BRRS010,0,81
+2010,Porto Alegre,BRRS013,0,164
+2010,Porto Alegre,BRRS014,0,55
+2010,Porto Alegre,BRRS015,0,180
+2010,Porto Alegre,BRRS016,0,59
+2010,Porto Velho,BRPVH,1,1523
+2010,Porto Velho,BRRO001,0,114
+2010,Porto Velho,BRRO002,0,752
+2010,Porto Velho,BRRO003,0,79
+2010,Porto Velho,BRRO005,0,281
+2010,Porto Velho,BRRO006,0,441
+2010,Porto Velho,BRRO007,0,258
+2010,Rio Grande,BRPET,1,13
+2010,Rio Grande,BRRIG,1,2812
+2010,Rio Grande,BRRS001,0,124
+2010,Rio Grande,BRRS002,0,575
+2010,Rio Grande,BRRS005,0,53
+2010,Rio Grande,BRRS007,0,68
+2010,Rio Grande,BRRS012,0,152
+2010,Rio de Janeiro -  Niterói,BRNTR,1,508
+2010,Rio de Janeiro -  Niterói,BRRIO,1,1307
+2010,Rio de Janeiro -  Niterói,BRRJ003,0,69
+2010,Rio de Janeiro -  Niterói,BRRJ007,0,6
+2010,Rio de Janeiro -  Niterói,BRRJ008,0,61
+2010,Rio de Janeiro -  Niterói,BRRJ010,0,733
+2010,Rio de Janeiro -  Niterói,BRRJ013,0,5
+2010,Rio de Janeiro -  Niterói,BRRJ015,0,21
+2010,Rio de Janeiro -  Niterói,BRRJ017,0,67
+2010,Rio de Janeiro -  Niterói,BRRJ018,0,27
+2010,Rio de Janeiro -  Niterói,BRRJ019,0,11
+2010,Santarém,BRPA017,0,789
+2010,Santarém,BRPA028,0,26
+2010,Santarém,BRSTM,1,730
+2010,Santos,BRSP001,0,90
+2010,Santos,BRSP002,0,183
+2010,Santos,BRSP004,0,63
+2010,Santos,BRSP005,0,99
+2010,Santos,BRSSZ,1,6154
+2010,Suape - Recife,BRREC,1,336
+2010,Suape - Recife,BRSUA,1,1164
+2010,São Francisco do Sul,BRSC007,0,108
+2010,São Francisco do Sul,BRSFS,1,618
+2010,São Sebastião,BRSP006,0,636
+2010,São Sebastião,BRSSO,1,76
+2010,Vila do Conde - Belém,BRBEL,1,1089
+2010,Vila do Conde - Belém,BRPA005,0,39
+2010,Vila do Conde - Belém,BRPA006,0,82
+2010,Vila do Conde - Belém,BRPA013,0,2138
+2010,Vila do Conde - Belém,BRPA014,0,101
+2010,Vila do Conde - Belém,BRPA016,0,870
+2010,Vila do Conde - Belém,BRVDC,1,800
+2010,Vitória,BRES001,0,877
+2010,Vitória,BRES002,0,366
+2010,Vitória,BRES003,0,152
+2010,Vitória,BRES004,0,454
+2010,Vitória,BRES005,0,1232
+2010,Vitória,BRES007,0,37
+2010,Vitória,BRES009,0,114
+2010,Vitória,BRVIX,1,1076
+2010,Óbidos,BRPA001,0,389
+2010,Óbidos,BRPA019,0,65
+2011,Almeirim,BRPA002,0,34
+2011,Almeirim,BRPA004,0,50
+2011,Angra dos Reis,BRADR,1,32
+2011,Angra dos Reis,BRRJ009,0,286
+2011,Angra dos Reis,BRRJ012,0,13
+2011,Aracajú,BRSE001,0,49
+2011,Aracajú,BRSE002,0,88
+2011,Aratu - Salvador,BRARB,1,617
+2011,Aratu - Salvador,BRBA002,0,88
+2011,Aratu - Salvador,BRBA003,0,613
+2011,Aratu - Salvador,BRBA006,0,14
+2011,Aratu - Salvador,BRBA007,0,78
+2011,Aratu - Salvador,BRBA008,0,79
+2011,Aratu - Salvador,BRSSA,1,589
+2011,Areia Branca,BRARE,1,1101
+2011,Barra do Riacho,BRES006,0,855
+2011,Barra do Riacho,BRES008,0,38
+2011,Cabedelo (Instalação Isolada),BRCDO,1,145
+2011,Coari (Instalação Isolada),BRAM009,0,480
+2011,Corumbá,BRMS001,0,1098
+2011,Corumbá,BRMS002,0,1406
+2011,Corumbá,BRMS003,0,900
+2011,Corumbá,BRMS005,0,1
+2011,Estrela,BRETL,1,24
+2011,Estrela,BRRS004,0,2
+2011,Estrela,BRRS011,0,194
+2011,Forno,BRFNO,1,30
+2011,Ilhéus,BRBA004,0,430
+2011,Ilhéus,BRBA005,0,147
+2011,Ilhéus,BRIOS,1,41
+2011,Imbituba,BRIBB,1,186
+2011,Itaguaí,BRIGI,1,906
+2011,Itaguaí,BRRJ001,0,218
+2011,Itaguaí,BRRJ016,0,105
+2011,Itajaí,BRITJ,1,434
+2011,Itajaí,BRSC001,0,21
+2011,Itajaí,BRSC008,0,619
+2011,Itajaí,BRSC012,0,36
+2011,Itajaí,BRSC017,0,9
+2011,Itaqui,BRIQI,1,720
+2011,Itaqui,BRMA001,0,355
+2011,Itaqui,BRMA002,0,544
+2011,Macapá,BRAP003,0,152
+2011,Macapá,BRAP004,0,117
+2011,Macapá,BRMCP,1,307
+2011,Maceió,BRAL001,0,87
+2011,Maceió,BRMCZ,1,282
+2011,Manaus,BRAM001,0,1394
+2011,Manaus,BRAM003,0,19
+2011,Manaus,BRAM004,0,771
+2011,Manaus,BRAM006,0,94
+2011,Manaus,BRAM007,0,1356
+2011,Manaus,BRAM008,0,776
+2011,Manaus,BRAM010,0,48
+2011,Manaus,BRAM011,0,802
+2011,Manaus,BRAM012,0,299
+2011,Manaus,BRAM013,0,9
+2011,Manaus,BRAM014,0,1522
+2011,Manaus,BRAM015,0,408
+2011,Manaus,BRAM016,0,1309
+2011,Manaus,BRAM018,0,1
+2011,Natal,BRNAT,1,90
+2011,Natal,BRRN001,0,70
+2011,Natal,BRRN002,0,42
+2011,Paranaguá - Antonina,BRANT,1,100
+2011,Paranaguá - Antonina,BRPNG,1,2130
+2011,Paranaguá - Antonina,BRPR002,0,182
+2011,Pecém - Fortaleza,BRCE001,0,504
+2011,Pecém - Fortaleza,BRFOR,1,549
+2011,Porto Alegre,BRPOA,1,149
+2011,Porto Alegre,BRRS003,0,269
+2011,Porto Alegre,BRRS006,0,339
+2011,Porto Alegre,BRRS008,0,162
+2011,Porto Alegre,BRRS009,0,194
+2011,Porto Alegre,BRRS010,0,80
+2011,Porto Alegre,BRRS013,0,143
+2011,Porto Alegre,BRRS014,0,56
+2011,Porto Alegre,BRRS015,0,202
+2011,Porto Alegre,BRRS016,0,59
+2011,Porto Velho,BRPVH,1,1301
+2011,Porto Velho,BRRO001,0,98
+2011,Porto Velho,BRRO002,0,628
+2011,Porto Velho,BRRO003,0,81
+2011,Porto Velho,BRRO005,0,232
+2011,Porto Velho,BRRO006,0,450
+2011,Porto Velho,BRRO007,0,238
+2011,Rio Grande,BRPET,1,10
+2011,Rio Grande,BRRIG,1,2599
+2011,Rio Grande,BRRS001,0,304
+2011,Rio Grande,BRRS002,0,605
+2011,Rio Grande,BRRS005,0,56
+2011,Rio Grande,BRRS007,0,107
+2011,Rio Grande,BRRS012,0,146
+2011,Rio de Janeiro -  Niterói,BRNTR,1,599
+2011,Rio de Janeiro -  Niterói,BRRIO,1,1412
+2011,Rio de Janeiro -  Niterói,BRRJ003,0,77
+2011,Rio de Janeiro -  Niterói,BRRJ007,0,3
+2011,Rio de Janeiro -  Niterói,BRRJ008,0,52
+2011,Rio de Janeiro -  Niterói,BRRJ010,0,1227
+2011,Rio de Janeiro -  Niterói,BRRJ013,0,4
+2011,Rio de Janeiro -  Niterói,BRRJ015,0,20
+2011,Rio de Janeiro -  Niterói,BRRJ017,0,71
+2011,Rio de Janeiro -  Niterói,BRRJ018,0,9
+2011,Rio de Janeiro -  Niterói,BRRJ019,0,22
+2011,Santarém,BRPA017,0,748
+2011,Santarém,BRPA028,0,32
+2011,Santarém,BRSTM,1,1298
+2011,Santos,BRSP001,0,108
+2011,Santos,BRSP002,0,202
+2011,Santos,BRSP004,0,48
+2011,Santos,BRSP005,0,103
+2011,Santos,BRSSZ,1,5846
+2011,Suape - Recife,BRREC,1,387
+2011,Suape - Recife,BRSUA,1,1308
+2011,São Francisco do Sul,BRSC007,0,114
+2011,São Francisco do Sul,BRSC011,0,112
+2011,São Francisco do Sul,BRSFS,1,761
+2011,São Sebastião,BRSP006,0,653
+2011,São Sebastião,BRSSO,1,70
+2011,Vila do Conde - Belém,BRBEL,1,1178
+2011,Vila do Conde - Belém,BRPA005,0,51
+2011,Vila do Conde - Belém,BRPA006,0,71
+2011,Vila do Conde - Belém,BRPA013,0,1903
+2011,Vila do Conde - Belém,BRPA014,0,122
+2011,Vila do Conde - Belém,BRPA016,0,937
+2011,Vila do Conde - Belém,BRVDC,1,770
+2011,Vitória,BRES001,0,862
+2011,Vitória,BRES002,0,328
+2011,Vitória,BRES003,0,171
+2011,Vitória,BRES004,0,439
+2011,Vitória,BRES005,0,726
+2011,Vitória,BRES007,0,47
+2011,Vitória,BRES009,0,79
+2011,Vitória,BRVIX,1,1368
+2011,Óbidos,BRPA001,0,386
+2011,Óbidos,BRPA019,0,88
+2012,Almeirim,BRPA002,0,26
+2012,Almeirim,BRPA004,0,33
+2012,Angra dos Reis,BRADR,1,83
+2012,Angra dos Reis,BRRJ009,0,253
+2012,Angra dos Reis,BRRJ012,0,11
+2012,Aracajú,BRSE001,0,311
+2012,Aracajú,BRSE002,0,102
+2012,Aratu - Salvador,BRARB,1,602
+2012,Aratu - Salvador,BRBA002,0,86
+2012,Aratu - Salvador,BRBA003,0,596
+2012,Aratu - Salvador,BRBA006,0,16
+2012,Aratu - Salvador,BRBA007,0,84
+2012,Aratu - Salvador,BRBA008,0,78
+2012,Aratu - Salvador,BRSSA,1,550
+2012,Areia Branca,BRARE,1,1026
+2012,Barra do Riacho,BRES006,0,846
+2012,Barra do Riacho,BRES008,0,37
+2012,Cabedelo (Instalação Isolada),BRCDO,1,147
+2012,Coari (Instalação Isolada),BRAM009,0,484
+2012,Corumbá,BRMS001,0,1406
+2012,Corumbá,BRMS002,0,1379
+2012,Corumbá,BRMS003,0,475
+2012,Corumbá,BRMS005,0,3
+2012,Estrela,BRETL,1,3
+2012,Estrela,BRRS011,0,208
+2012,Forno,BRFNO,1,20
+2012,Ilhéus,BRBA004,0,453
+2012,Ilhéus,BRBA005,0,159
+2012,Ilhéus,BRIOS,1,47
+2012,Imbituba,BRIBB,1,195
+2012,Itaguaí,BRIGI,1,845
+2012,Itaguaí,BRRJ001,0,213
+2012,Itaguaí,BRRJ016,0,109
+2012,Itajaí,BRITJ,1,300
+2012,Itajaí,BRSC001,0,24
+2012,Itajaí,BRSC008,0,581
+2012,Itajaí,BRSC012,0,38
+2012,Itaqui,BRIQI,1,777
+2012,Itaqui,BRMA001,0,326
+2012,Itaqui,BRMA002,0,533
+2012,Macapá,BRAP003,0,154
+2012,Macapá,BRAP004,0,144
+2012,Macapá,BRMCP,1,340
+2012,Maceió,BRAL001,0,84
+2012,Maceió,BRMCZ,1,336
+2012,Manaus,BRAM001,0,1265
+2012,Manaus,BRAM003,0,25
+2012,Manaus,BRAM004,0,495
+2012,Manaus,BRAM006,0,170
+2012,Manaus,BRAM007,0,1477
+2012,Manaus,BRAM008,0,699
+2012,Manaus,BRAM010,0,60
+2012,Manaus,BRAM011,0,974
+2012,Manaus,BRAM012,0,137
+2012,Manaus,BRAM013,0,6
+2012,Manaus,BRAM014,0,1485
+2012,Manaus,BRAM015,0,307
+2012,Manaus,BRAM016,0,1573
+2012,Manaus,BRAM018,0,14
+2012,Natal,BRNAT,1,89
+2012,Natal,BRRN001,0,69
+2012,Natal,BRRN002,0,64
+2012,Paranaguá - Antonina,BRANT,1,92
+2012,Paranaguá - Antonina,BRPNG,1,2141
+2012,Paranaguá - Antonina,BRPR002,0,148
+2012,Pecém - Fortaleza,BRCE001,0,955
+2012,Pecém - Fortaleza,BRFOR,1,569
+2012,Porto Alegre,BRPOA,1,186
+2012,Porto Alegre,BRRS003,0,222
+2012,Porto Alegre,BRRS006,0,259
+2012,Porto Alegre,BRRS008,0,207
+2012,Porto Alegre,BRRS009,0,193
+2012,Porto Alegre,BRRS010,0,100
+2012,Porto Alegre,BRRS013,0,152
+2012,Porto Alegre,BRRS014,0,52
+2012,Porto Alegre,BRRS015,0,102
+2012,Porto Alegre,BRRS016,0,65
+2012,Porto Velho,BRPVH,1,1864
+2012,Porto Velho,BRRO001,0,98
+2012,Porto Velho,BRRO002,0,757
+2012,Porto Velho,BRRO003,0,83
+2012,Porto Velho,BRRO005,0,196
+2012,Porto Velho,BRRO006,0,530
+2012,Porto Velho,BRRO007,0,159
+2012,Rio Grande,BRPET,1,6
+2012,Rio Grande,BRRIG,1,2260
+2012,Rio Grande,BRRS001,0,284
+2012,Rio Grande,BRRS002,0,428
+2012,Rio Grande,BRRS005,0,118
+2012,Rio Grande,BRRS007,0,87
+2012,Rio Grande,BRRS012,0,189
+2012,Rio de Janeiro -  Niterói,BRNTR,1,392
+2012,Rio de Janeiro -  Niterói,BRRIO,1,1414
+2012,Rio de Janeiro -  Niterói,BRRJ003,0,83
+2012,Rio de Janeiro -  Niterói,BRRJ007,0,4
+2012,Rio de Janeiro -  Niterói,BRRJ008,0,60
+2012,Rio de Janeiro -  Niterói,BRRJ010,0,1245
+2012,Rio de Janeiro -  Niterói,BRRJ013,0,8
+2012,Rio de Janeiro -  Niterói,BRRJ015,0,18
+2012,Rio de Janeiro -  Niterói,BRRJ017,0,43
+2012,Rio de Janeiro -  Niterói,BRRJ018,0,46
+2012,Rio de Janeiro -  Niterói,BRRJ019,0,36
+2012,Santarém,BRPA017,0,737
+2012,Santarém,BRPA028,0,45
+2012,Santarém,BRSTM,1,1604
+2012,Santos,BRSP001,0,108
+2012,Santos,BRSP002,0,212
+2012,Santos,BRSP004,0,52
+2012,Santos,BRSP005,0,106
+2012,Santos,BRSSZ,1,5354
+2012,Suape - Recife,BRPE001,0,6
+2012,Suape - Recife,BRREC,1,354
+2012,Suape - Recife,BRSUA,1,1278
+2012,São Francisco do Sul,BRSC007,0,111
+2012,São Francisco do Sul,BRSC011,0,425
+2012,São Francisco do Sul,BRSFS,1,634
+2012,São Sebastião,BRSP006,0,616
+2012,São Sebastião,BRSSO,1,108
+2012,Tomé Açu,BRPA033,0,74
+2012,Vila do Conde - Belém,BRBEL,1,1172
+2012,Vila do Conde - Belém,BRPA005,0,19
+2012,Vila do Conde - Belém,BRPA006,0,79
+2012,Vila do Conde - Belém,BRPA013,0,1789
+2012,Vila do Conde - Belém,BRPA014,0,138
+2012,Vila do Conde - Belém,BRPA016,0,888
+2012,Vila do Conde - Belém,BRVDC,1,742
+2012,Vitória,BRES001,0,829
+2012,Vitória,BRES002,0,370
+2012,Vitória,BRES003,0,175
+2012,Vitória,BRES004,0,436
+2012,Vitória,BRES005,0,1081
+2012,Vitória,BRES007,0,59
+2012,Vitória,BRVIX,1,1286
+2012,Óbidos,BRPA001,0,329
+2012,Óbidos,BRPA019,0,86
+2013,Almeirim,BRPA002,0,22
+2013,Almeirim,BRPA004,0,4
+2013,Angra dos Reis,BRADR,1,118
+2013,Angra dos Reis,BRRJ009,0,203
+2013,Angra dos Reis,BRRJ012,0,17
+2013,Aracajú,BRSE001,0,326
+2013,Aracajú,BRSE002,0,74
+2013,Aratu - Salvador,BRARB,1,567
+2013,Aratu - Salvador,BRBA002,0,91
+2013,Aratu - Salvador,BRBA003,0,623
+2013,Aratu - Salvador,BRBA006,0,19
+2013,Aratu - Salvador,BRBA007,0,79
+2013,Aratu - Salvador,BRBA008,0,100
+2013,Aratu - Salvador,BRSSA,1,672
+2013,Areia Branca,BRARE,1,1228
+2013,Barra do Riacho,BRES006,0,755
+2013,Barra do Riacho,BRES008,0,36
+2013,Barra do Riacho,BRES010,0,34
+2013,Cabedelo (Instalação Isolada),BRCDO,1,161
+2013,Coari (Instalação Isolada),BRAM009,0,459
+2013,Corumbá,BRMS001,0,1744
+2013,Corumbá,BRMS002,0,1996
+2013,Corumbá,BRMS003,0,212
+2013,Corumbá,BRMS005,0,4
+2013,Estrela,BRETL,1,23
+2013,Estrela,BRRS011,0,130
+2013,Forno,BRFNO,1,201
+2013,Ilhéus,BRBA004,0,374
+2013,Ilhéus,BRBA005,0,150
+2013,Ilhéus,BRIOS,1,57
+2013,Imbituba,BRIBB,1,213
+2013,Itaguaí,BRIGI,1,872
+2013,Itaguaí,BRRJ001,0,197
+2013,Itaguaí,BRRJ016,0,110
+2013,Itajaí,BRITJ,1,303
+2013,Itajaí,BRSC001,0,25
+2013,Itajaí,BRSC008,0,524
+2013,Itajaí,BRSC012,0,55
+2013,Itaqui,BRIQI,1,739
+2013,Itaqui,BRMA001,0,301
+2013,Itaqui,BRMA002,0,507
+2013,Macapá,BRAP003,0,154
+2013,Macapá,BRAP004,0,28
+2013,Macapá,BRMCP,1,370
+2013,Maceió,BRAL001,0,82
+2013,Maceió,BRMCZ,1,336
+2013,Manaus,BRAM001,0,1283
+2013,Manaus,BRAM003,0,20
+2013,Manaus,BRAM004,0,682
+2013,Manaus,BRAM006,0,160
+2013,Manaus,BRAM007,0,1492
+2013,Manaus,BRAM008,0,677
+2013,Manaus,BRAM010,0,53
+2013,Manaus,BRAM011,0,648
+2013,Manaus,BRAM012,0,128
+2013,Manaus,BRAM013,0,7
+2013,Manaus,BRAM014,0,1563
+2013,Manaus,BRAM015,0,260
+2013,Manaus,BRAM016,0,2308
+2013,Manaus,BRAM018,0,12
+2013,Manaus,BRAM025,0,177
+2013,Natal,BRNAT,1,65
+2013,Natal,BRRN001,0,82
+2013,Natal,BRRN002,0,1
+2013,Paranaguá - Antonina,BRANT,1,105
+2013,Paranaguá - Antonina,BRPNG,1,2064
+2013,Paranaguá - Antonina,BRPR002,0,156
+2013,Pecém - Fortaleza,BRCE001,0,1014
+2013,Pecém - Fortaleza,BRFOR,1,568
+2013,Porto Alegre,BRPOA,1,190
+2013,Porto Alegre,BRRS003,0,336
+2013,Porto Alegre,BRRS006,0,210
+2013,Porto Alegre,BRRS008,0,208
+2013,Porto Alegre,BRRS009,0,229
+2013,Porto Alegre,BRRS010,0,148
+2013,Porto Alegre,BRRS013,0,113
+2013,Porto Alegre,BRRS014,0,19
+2013,Porto Alegre,BRRS015,0,279
+2013,Porto Alegre,BRRS016,0,19
+2013,Porto Velho,BRPVH,1,2265
+2013,Porto Velho,BRRO001,0,81
+2013,Porto Velho,BRRO002,0,790
+2013,Porto Velho,BRRO003,0,88
+2013,Porto Velho,BRRO005,0,176
+2013,Porto Velho,BRRO006,0,685
+2013,Porto Velho,BRRO007,0,256
+2013,Rio Grande,BRPET,1,9
+2013,Rio Grande,BRRIG,1,2310
+2013,Rio Grande,BRRS001,0,297
+2013,Rio Grande,BRRS002,0,383
+2013,Rio Grande,BRRS005,0,90
+2013,Rio Grande,BRRS007,0,114
+2013,Rio Grande,BRRS012,0,129
+2013,Rio de Janeiro -  Niterói,BRNTR,1,601
+2013,Rio de Janeiro -  Niterói,BRRIO,1,1149
+2013,Rio de Janeiro -  Niterói,BRRJ003,0,73
+2013,Rio de Janeiro -  Niterói,BRRJ005,0,290
+2013,Rio de Janeiro -  Niterói,BRRJ008,0,49
+2013,Rio de Janeiro -  Niterói,BRRJ010,0,1247
+2013,Rio de Janeiro -  Niterói,BRRJ015,0,17
+2013,Rio de Janeiro -  Niterói,BRRJ017,0,35
+2013,Rio de Janeiro -  Niterói,BRRJ018,0,61
+2013,Rio de Janeiro -  Niterói,BRRJ019,0,37
+2013,Santarém,BRPA017,0,628
+2013,Santarém,BRPA028,0,82
+2013,Santarém,BRSTM,1,1729
+2013,Santos,BRSP001,0,93
+2013,Santos,BRSP002,0,161
+2013,Santos,BRSP004,0,70
+2013,Santos,BRSP005,0,96
+2013,Santos,BRSP008,0,89
+2013,Santos,BRSP009,0,103
+2013,Santos,BRSSZ,1,5128
+2013,Suape - Recife,BRPE001,0,4
+2013,Suape - Recife,BRREC,1,356
+2013,Suape - Recife,BRSUA,1,1358
+2013,São Francisco do Sul,BRSC007,0,123
+2013,São Francisco do Sul,BRSC011,0,583
+2013,São Francisco do Sul,BRSFS,1,633
+2013,São Sebastião,BRSP006,0,627
+2013,São Sebastião,BRSSO,1,121
+2013,Tomé Açu,BRPA033,0,126
+2013,Tomé Açu,BRPA034,0,26
+2013,Vila do Conde - Belém,BRBEL,1,1124
+2013,Vila do Conde - Belém,BRPA006,0,94
+2013,Vila do Conde - Belém,BRPA013,0,1845
+2013,Vila do Conde - Belém,BRPA014,0,158
+2013,Vila do Conde - Belém,BRPA016,0,882
+2013,Vila do Conde - Belém,BRVDC,1,758
+2013,Vitória,BRES001,0,818
+2013,Vitória,BRES002,0,363
+2013,Vitória,BRES003,0,153
+2013,Vitória,BRES004,0,340
+2013,Vitória,BRES005,0,1844
+2013,Vitória,BRES007,0,70
+2013,Vitória,BRVIX,1,1344
+2013,Óbidos,BRPA001,0,323
+2013,Óbidos,BRPA019,0,86
+2014,Almeirim,BRPA002,0,25
+2014,Almeirim,BRPA004,0,2
+2014,Angra dos Reis,BRADR,1,159
+2014,Angra dos Reis,BRRJ009,0,309
+2014,Angra dos Reis,BRRJ012,0,22
+2014,Aracajú,BRSE001,0,321
+2014,Aracajú,BRSE002,0,69
+2014,Aratu - Salvador,BRARB,1,572
+2014,Aratu - Salvador,BRBA002,0,87
+2014,Aratu - Salvador,BRBA003,0,586
+2014,Aratu - Salvador,BRBA006,0,11
+2014,Aratu - Salvador,BRBA007,0,87
+2014,Aratu - Salvador,BRBA008,0,82
+2014,Aratu - Salvador,BRBA009,0,29
+2014,Aratu - Salvador,BRSSA,1,590
+2014,Areia Branca,BRARE,1,1623
+2014,Barra do Riacho,BRES006,0,824
+2014,Barra do Riacho,BRES008,0,28
+2014,Barra do Riacho,BRES010,0,101
+2014,Cabedelo (Instalação Isolada),BRCDO,1,152
+2014,Coari (Instalação Isolada),BRAM009,0,456
+2014,Corumbá,BRMS001,0,2162
+2014,Corumbá,BRMS002,0,1842
+2014,Corumbá,BRMS003,0,52
+2014,Estrela,BRETL,1,1
+2014,Estrela,BRRS004,0,6
+2014,Estrela,BRRS011,0,71
+2014,Forno,BRFNO,1,238
+2014,Ilhéus,BRBA004,0,395
+2014,Ilhéus,BRBA005,0,143
+2014,Ilhéus,BRIOS,1,50
+2014,Imbituba,BRIBB,1,254
+2014,Itaguaí,BRIGI,1,819
+2014,Itaguaí,BRRJ001,0,190
+2014,Itaguaí,BRRJ016,0,131
+2014,Itaituba,BRPA038,0,408
+2014,Itajaí,BRITJ,1,322
+2014,Itajaí,BRSC001,0,21
+2014,Itajaí,BRSC008,0,484
+2014,Itajaí,BRSC012,0,77
+2014,Itaqui,BRIQI,1,824
+2014,Itaqui,BRMA001,0,320
+2014,Itaqui,BRMA002,0,500
+2014,Macapá,BRAP003,0,140
+2014,Macapá,BRMCP,1,340
+2014,Maceió,BRAL001,0,75
+2014,Maceió,BRMCZ,1,337
+2014,Manaus,BRAM001,0,1204
+2014,Manaus,BRAM003,0,16
+2014,Manaus,BRAM004,0,712
+2014,Manaus,BRAM006,0,166
+2014,Manaus,BRAM007,0,751
+2014,Manaus,BRAM008,0,575
+2014,Manaus,BRAM010,0,31
+2014,Manaus,BRAM011,0,691
+2014,Manaus,BRAM012,0,108
+2014,Manaus,BRAM013,0,8
+2014,Manaus,BRAM014,0,1598
+2014,Manaus,BRAM015,0,380
+2014,Manaus,BRAM016,0,639
+2014,Manaus,BRAM017,0,570
+2014,Manaus,BRAM018,0,75
+2014,Manaus,BRAM025,0,625
+2014,Natal,BRNAT,1,71
+2014,Natal,BRRN001,0,117
+2014,Paranaguá - Antonina,BRANT,1,97
+2014,Paranaguá - Antonina,BRPNG,1,1955
+2014,Paranaguá - Antonina,BRPR002,0,184
+2014,Paranaguá - Antonina,BRPR005,0,2
+2014,Pecém - Fortaleza,BRCE001,0,877
+2014,Pecém - Fortaleza,BRFOR,1,555
+2014,Porto Alegre,BRPOA,1,188
+2014,Porto Alegre,BRRS003,0,489
+2014,Porto Alegre,BRRS006,0,234
+2014,Porto Alegre,BRRS008,0,213
+2014,Porto Alegre,BRRS009,0,214
+2014,Porto Alegre,BRRS010,0,186
+2014,Porto Alegre,BRRS013,0,94
+2014,Porto Alegre,BRRS014,0,49
+2014,Porto Alegre,BRRS015,0,271
+2014,Porto Alegre,BRRS016,0,49
+2014,Porto Velho,BRPVH,1,3058
+2014,Porto Velho,BRRO001,0,48
+2014,Porto Velho,BRRO002,0,737
+2014,Porto Velho,BRRO003,0,80
+2014,Porto Velho,BRRO005,0,156
+2014,Porto Velho,BRRO006,0,373
+2014,Porto Velho,BRRO007,0,176
+2014,Rio Grande,BRPET,1,19
+2014,Rio Grande,BRRIG,1,2427
+2014,Rio Grande,BRRS001,0,262
+2014,Rio Grande,BRRS002,0,285
+2014,Rio Grande,BRRS005,0,69
+2014,Rio Grande,BRRS007,0,161
+2014,Rio Grande,BRRS012,0,110
+2014,Rio de Janeiro -  Niterói,BRNTR,1,567
+2014,Rio de Janeiro -  Niterói,BRRIO,1,1121
+2014,Rio de Janeiro -  Niterói,BRRJ003,0,63
+2014,Rio de Janeiro -  Niterói,BRRJ005,0,215
+2014,Rio de Janeiro -  Niterói,BRRJ007,0,1
+2014,Rio de Janeiro -  Niterói,BRRJ008,0,68
+2014,Rio de Janeiro -  Niterói,BRRJ010,0,1263
+2014,Rio de Janeiro -  Niterói,BRRJ013,0,6
+2014,Rio de Janeiro -  Niterói,BRRJ014,0,27
+2014,Rio de Janeiro -  Niterói,BRRJ015,0,13
+2014,Rio de Janeiro -  Niterói,BRRJ017,0,70
+2014,Rio de Janeiro -  Niterói,BRRJ018,0,53
+2014,Rio de Janeiro -  Niterói,BRRJ019,0,33
+2014,Rio de Janeiro -  Niterói,BRRJ021,0,4
+2014,Rio de Janeiro -  Niterói,BRRJ024,0,21
+2014,Santarém,BRPA017,0,549
+2014,Santarém,BRPA028,0,77
+2014,Santarém,BRSTM,1,1471
+2014,Santos,BRSP001,0,82
+2014,Santos,BRSP002,0,132
+2014,Santos,BRSP004,0,68
+2014,Santos,BRSP005,0,89
+2014,Santos,BRSP008,0,349
+2014,Santos,BRSP009,0,220
+2014,Santos,BRSSZ,1,4714
+2014,Suape - Recife,BRPE001,0,12
+2014,Suape - Recife,BRREC,1,303
+2014,Suape - Recife,BRSUA,1,1455
+2014,São Francisco do Sul,BRSC007,0,122
+2014,São Francisco do Sul,BRSC011,0,546
+2014,São Francisco do Sul,BRSFS,1,609
+2014,São João da Barra,BRRJ020,0,3
+2014,São João da Barra,BRRJ026,0,1
+2014,São Sebastião,BRSP006,0,638
+2014,São Sebastião,BRSSO,1,175
+2014,Tomé Açu,BRPA033,0,145
+2014,Tomé Açu,BRPA034,0,7
+2014,Vila do Conde - Belém,BRBEL,1,1090
+2014,Vila do Conde - Belém,BRPA005,0,3
+2014,Vila do Conde - Belém,BRPA006,0,84
+2014,Vila do Conde - Belém,BRPA013,0,1683
+2014,Vila do Conde - Belém,BRPA014,0,161
+2014,Vila do Conde - Belém,BRPA016,0,775
+2014,Vila do Conde - Belém,BRPA018,0,330
+2014,Vila do Conde - Belém,BRVDC,1,913
+2014,Vitória,BRES001,0,827
+2014,Vitória,BRES002,0,348
+2014,Vitória,BRES003,0,186
+2014,Vitória,BRES004,0,331
+2014,Vitória,BRES005,0,1667
+2014,Vitória,BRES007,0,66
+2014,Vitória,BRVIX,1,1464
+2014,Óbidos,BRPA001,0,316
+2014,Óbidos,BRPA019,0,91
+2015,Almeirim,BRPA002,0,26
+2015,Almeirim,BRPA004,0,14
+2015,Angra dos Reis,BRADR,1,142
+2015,Angra dos Reis,BRRJ009,0,240
+2015,Angra dos Reis,BRRJ012,0,13
+2015,Aracajú,BRSE001,0,316
+2015,Aracajú,BRSE002,0,40
+2015,Aratu - Salvador,BRARB,1,555
+2015,Aratu - Salvador,BRBA002,0,92
+2015,Aratu - Salvador,BRBA003,0,714
+2015,Aratu - Salvador,BRBA006,0,19
+2015,Aratu - Salvador,BRBA007,0,96
+2015,Aratu - Salvador,BRBA008,0,59
+2015,Aratu - Salvador,BRBA009,0,37
+2015,Aratu - Salvador,BRSSA,1,586
+2015,Areia Branca,BRARE,1,1947
+2015,Barra do Riacho,BRES006,0,825
+2015,Barra do Riacho,BRES008,0,24
+2015,Barra do Riacho,BRES010,0,60
+2015,Cabedelo (Instalação Isolada),BRCDO,1,105
+2015,Coari (Instalação Isolada),BRAM009,0,476
+2015,Corumbá,BRMS001,0,941
+2015,Corumbá,BRMS002,0,1465
+2015,Corumbá,BRMS003,0,13
+2015,Corumbá,BRMS005,0,8
+2015,Forno,BRFNO,1,188
+2015,Ilhéus,BRBA004,0,388
+2015,Ilhéus,BRBA005,0,145
+2015,Ilhéus,BRIOS,1,50
+2015,Imbituba,BRIBB,1,228
+2015,Itaguaí,BRIGI,1,762
+2015,Itaguaí,BRRJ001,0,213
+2015,Itaguaí,BRRJ016,0,122
+2015,Itaguaí,BRRJ023,0,5
+2015,Itaituba,BRPA038,0,827
+2015,Itajaí,BRITJ,1,278
+2015,Itajaí,BRSC001,0,16
+2015,Itajaí,BRSC008,0,476
+2015,Itajaí,BRSC012,0,31
+2015,Itajaí,BRSC013,0,2
+2015,Itajaí,BRSC017,0,1
+2015,Itaqui,BRIQI,1,828
+2015,Itaqui,BRMA001,0,340
+2015,Itaqui,BRMA002,0,557
+2015,Macapá,BRAP003,0,147
+2015,Macapá,BRMCP,1,218
+2015,Maceió,BRAL001,0,74
+2015,Maceió,BRMCZ,1,252
+2015,Manaus,BRAM001,0,1031
+2015,Manaus,BRAM003,0,15
+2015,Manaus,BRAM004,0,264
+2015,Manaus,BRAM006,0,173
+2015,Manaus,BRAM007,0,191
+2015,Manaus,BRAM008,0,415
+2015,Manaus,BRAM010,0,22
+2015,Manaus,BRAM011,0,644
+2015,Manaus,BRAM012,0,160
+2015,Manaus,BRAM013,0,8
+2015,Manaus,BRAM014,0,1976
+2015,Manaus,BRAM015,0,397
+2015,Manaus,BRAM016,0,383
+2015,Manaus,BRAM017,0,881
+2015,Manaus,BRAM018,0,108
+2015,Manaus,BRAM025,0,626
+2015,Manaus,BRAM028,0,191
+2015,Manaus,BRMAO,1,7
+2015,Natal,BRNAT,1,72
+2015,Natal,BRRN001,0,133
+2015,Paranaguá - Antonina,BRANT,1,48
+2015,Paranaguá - Antonina,BRPNG,1,1897
+2015,Paranaguá - Antonina,BRPR002,0,226
+2015,Paranaguá - Antonina,BRPR005,0,10
+2015,Pecém - Fortaleza,BRCE001,0,489
+2015,Pecém - Fortaleza,BRFOR,1,494
+2015,Porto Alegre,BRPOA,1,141
+2015,Porto Alegre,BRRS003,0,417
+2015,Porto Alegre,BRRS006,0,248
+2015,Porto Alegre,BRRS008,0,147
+2015,Porto Alegre,BRRS009,0,201
+2015,Porto Alegre,BRRS010,0,97
+2015,Porto Alegre,BRRS013,0,216
+2015,Porto Alegre,BRRS014,0,22
+2015,Porto Alegre,BRRS015,0,374
+2015,Porto Alegre,BRRS016,0,23
+2015,Porto Velho,BRPVH,1,1600
+2015,Porto Velho,BRRO001,0,63
+2015,Porto Velho,BRRO002,0,715
+2015,Porto Velho,BRRO003,0,102
+2015,Porto Velho,BRRO005,0,175
+2015,Porto Velho,BRRO006,0,503
+2015,Porto Velho,BRRO007,0,309
+2015,Porto Velho,BRRO013,0,119
+2015,Porto Velho,BRRO014,0,72
+2015,Rio Grande,BRPET,1,18
+2015,Rio Grande,BRRIG,1,2199
+2015,Rio Grande,BRRS001,0,294
+2015,Rio Grande,BRRS002,0,459
+2015,Rio Grande,BRRS005,0,64
+2015,Rio Grande,BRRS007,0,151
+2015,Rio Grande,BRRS012,0,68
+2015,Rio de Janeiro -  Niterói,BRNTR,1,219
+2015,Rio de Janeiro -  Niterói,BRRIO,1,948
+2015,Rio de Janeiro -  Niterói,BRRJ003,0,41
+2015,Rio de Janeiro -  Niterói,BRRJ008,0,78
+2015,Rio de Janeiro -  Niterói,BRRJ010,0,1255
+2015,Rio de Janeiro -  Niterói,BRRJ014,0,144
+2015,Rio de Janeiro -  Niterói,BRRJ015,0,11
+2015,Rio de Janeiro -  Niterói,BRRJ017,0,47
+2015,Rio de Janeiro -  Niterói,BRRJ018,0,25
+2015,Rio de Janeiro -  Niterói,BRRJ019,0,33
+2015,Rio de Janeiro -  Niterói,BRRJ021,0,6
+2015,Rio de Janeiro -  Niterói,BRRJ024,0,18
+2015,Santarém,BRPA017,0,640
+2015,Santarém,BRPA028,0,58
+2015,Santarém,BRSTM,1,1829
+2015,Santos,BRSP001,0,99
+2015,Santos,BRSP002,0,114
+2015,Santos,BRSP004,0,69
+2015,Santos,BRSP005,0,85
+2015,Santos,BRSP008,0,474
+2015,Santos,BRSP009,0,146
+2015,Santos,BRSSZ,1,4720
+2015,Sem complexo - Terminal Isolado,BRRS025,0,1
+2015,Suape - Recife,BRPE001,0,3
+2015,Suape - Recife,BRREC,1,257
+2015,Suape - Recife,BRSUA,1,1538
+2015,São Francisco do Sul,BRSC007,0,113
+2015,São Francisco do Sul,BRSC011,0,574
+2015,São Francisco do Sul,BRSFS,1,566
+2015,São João da Barra,BRRJ020,0,66
+2015,São João da Barra,BRRJ022,0,4
+2015,São João da Barra,BRRJ025,0,24
+2015,São João da Barra,BRRJ026,0,66
+2015,São João da Barra,BRRJ039,0,18
+2015,São Sebastião,BRSP006,0,583
+2015,São Sebastião,BRSSO,1,140
+2015,Tomé Açu,BRPA033,0,152
+2015,Tomé Açu,BRPA034,0,2
+2015,Vila do Conde - Belém,BRBEL,1,898
+2015,Vila do Conde - Belém,BRPA005,0,25
+2015,Vila do Conde - Belém,BRPA006,0,80
+2015,Vila do Conde - Belém,BRPA013,0,1206
+2015,Vila do Conde - Belém,BRPA014,0,160
+2015,Vila do Conde - Belém,BRPA016,0,575
+2015,Vila do Conde - Belém,BRPA018,0,813
+2015,Vila do Conde - Belém,BRVDC,1,839
+2015,Vitória,BRES001,0,792
+2015,Vitória,BRES002,0,322
+2015,Vitória,BRES003,0,177
+2015,Vitória,BRES004,0,389
+2015,Vitória,BRES005,0,1731
+2015,Vitória,BRES007,0,63
+2015,Vitória,BRES020,0,33
+2015,Vitória,BRVIX,1,1196
+2015,Óbidos,BRPA001,0,340
+2015,Óbidos,BRPA019,0,95
+2016,Almeirim,BRPA002,0,25
+2016,Almeirim,BRPA004,0,20
+2016,Angra dos Reis,BRRJ009,0,259
+2016,Angra dos Reis,BRRJ012,0,15
+2016,Aracajú,BRSE001,0,148
+2016,Aracajú,BRSE002,0,47
+2016,Aratu - Salvador,BRARB,1,619
+2016,Aratu - Salvador,BRBA002,0,89
+2016,Aratu - Salvador,BRBA003,0,596
+2016,Aratu - Salvador,BRBA006,0,9
+2016,Aratu - Salvador,BRBA007,0,70
+2016,Aratu - Salvador,BRBA008,0,62
+2016,Aratu - Salvador,BRBA009,0,10
+2016,Aratu - Salvador,BRSSA,1,572
+2016,Areia Branca,BRARE,1,1828
+2016,Barra do Riacho,BRES006,0,848
+2016,Barra do Riacho,BRES008,0,24
+2016,Barra do Riacho,BRES010,0,71
+2016,Barra do Riacho,BRES013,0,2
+2016,Cabedelo (Instalação Isolada),BRCDO,1,98
+2016,Coari (Instalação Isolada),BRAM009,0,438
+2016,Corumbá,BRMS001,0,688
+2016,Corumbá,BRMS002,0,1089
+2016,Forno,BRFNO,1,15
+2016,Ilhéus,BRBA004,0,395
+2016,Ilhéus,BRBA005,0,151
+2016,Ilhéus,BRIOS,1,22
+2016,Imbituba,BRIBB,1,251
+2016,Itaguaí,BRIGI,1,737
+2016,Itaguaí,BRRJ001,0,218
+2016,Itaguaí,BRRJ016,0,116
+2016,Itaguaí,BRRJ023,0,43
+2016,Itaguaí,BRRJ054,0,1
+2016,Itaituba,BRPA038,0,844
+2016,Itaituba,BRPA045,0,3
+2016,Itajaí,BRITJ,1,209
+2016,Itajaí,BRSC001,0,22
+2016,Itajaí,BRSC008,0,644
+2016,Itajaí,BRSC012,0,26
+2016,Itajaí,BRSC013,0,1
+2016,Itajaí,BRSC017,0,2
+2016,Itaqui,BRIQI,1,704
+2016,Itaqui,BRMA001,0,321
+2016,Itaqui,BRMA002,0,669
+2016,LDC Pederneiras (Instalação Isolada),BRSP011,0,313
+2016,Macapá,BRAP003,0,137
+2016,Macapá,BRMCP,1,35
+2016,Maceió,BRAL001,0,97
+2016,Maceió,BRMCZ,1,156
+2016,Manaus,BRAM001,0,929
+2016,Manaus,BRAM003,0,13
+2016,Manaus,BRAM004,0,190
+2016,Manaus,BRAM006,0,155
+2016,Manaus,BRAM007,0,235
+2016,Manaus,BRAM008,0,279
+2016,Manaus,BRAM010,0,2
+2016,Manaus,BRAM011,0,529
+2016,Manaus,BRAM012,0,177
+2016,Manaus,BRAM013,0,8
+2016,Manaus,BRAM014,0,1989
+2016,Manaus,BRAM015,0,137
+2016,Manaus,BRAM016,0,359
+2016,Manaus,BRAM017,0,799
+2016,Manaus,BRAM018,0,58
+2016,Manaus,BRAM025,0,672
+2016,Manaus,BRAM028,0,184
+2016,Manaus,BRAM032,0,158
+2016,Manaus,BRMAO,1,5
+2016,Natal,BRNAT,1,72
+2016,Natal,BRRN001,0,131
+2016,Paranaguá - Antonina,BRANT,1,64
+2016,Paranaguá - Antonina,BRPNG,1,1909
+2016,Paranaguá - Antonina,BRPR002,0,295
+2016,Paranaguá - Antonina,BRPR005,0,3
+2016,Pecém - Fortaleza,BRCE001,0,442
+2016,Pecém - Fortaleza,BRFOR,1,452
+2016,Porto Alegre,BRPOA,1,169
+2016,Porto Alegre,BRRS003,0,453
+2016,Porto Alegre,BRRS006,0,234
+2016,Porto Alegre,BRRS008,0,135
+2016,Porto Alegre,BRRS009,0,195
+2016,Porto Alegre,BRRS010,0,78
+2016,Porto Alegre,BRRS013,0,367
+2016,Porto Alegre,BRRS014,0,32
+2016,Porto Alegre,BRRS015,0,328
+2016,Porto Alegre,BRRS016,0,34
+2016,Porto Velho,BRPVH,1,1584
+2016,Porto Velho,BRRO001,0,44
+2016,Porto Velho,BRRO002,0,591
+2016,Porto Velho,BRRO003,0,201
+2016,Porto Velho,BRRO005,0,241
+2016,Porto Velho,BRRO006,0,333
+2016,Porto Velho,BRRO007,0,459
+2016,Porto Velho,BRRO013,0,672
+2016,Porto Velho,BRRO014,0,77
+2016,Rio Grande,BRPET,1,44
+2016,Rio Grande,BRRIG,1,2500
+2016,Rio Grande,BRRS001,0,340
+2016,Rio Grande,BRRS002,0,389
+2016,Rio Grande,BRRS005,0,35
+2016,Rio Grande,BRRS007,0,167
+2016,Rio Grande,BRRS012,0,68
+2016,Rio de Janeiro -  Niterói,BRNTR,1,157
+2016,Rio de Janeiro -  Niterói,BRRIO,1,934
+2016,Rio de Janeiro -  Niterói,BRRJ003,0,39
+2016,Rio de Janeiro -  Niterói,BRRJ008,0,38
+2016,Rio de Janeiro -  Niterói,BRRJ010,0,1128
+2016,Rio de Janeiro -  Niterói,BRRJ013,0,1
+2016,Rio de Janeiro -  Niterói,BRRJ014,0,79
+2016,Rio de Janeiro -  Niterói,BRRJ015,0,11
+2016,Rio de Janeiro -  Niterói,BRRJ017,0,28
+2016,Rio de Janeiro -  Niterói,BRRJ018,0,11
+2016,Rio de Janeiro -  Niterói,BRRJ019,0,40
+2016,Rio de Janeiro -  Niterói,BRRJ024,0,12
+2016,Rio de Janeiro -  Niterói,BRRJ055,0,3
+2016,Rio de Janeiro -  Niterói,BRRJ056,0,57
+2016,Santarém,BRPA017,0,543
+2016,Santarém,BRPA028,0,79
+2016,Santarém,BRSTM,1,1687
+2016,Santos,BRSP001,0,104
+2016,Santos,BRSP002,0,41
+2016,Santos,BRSP004,0,66
+2016,Santos,BRSP005,0,86
+2016,Santos,BRSP008,0,452
+2016,Santos,BRSP009,0,55
+2016,Santos,BRSSZ,1,4520
+2016,Suape - Recife,BRPE001,0,7
+2016,Suape - Recife,BRREC,1,244
+2016,Suape - Recife,BRSUA,1,1573
+2016,São Francisco do Sul,BRSC007,0,102
+2016,São Francisco do Sul,BRSC011,0,534
+2016,São Francisco do Sul,BRSFS,1,439
+2016,São João da Barra,BRRJ020,0,105
+2016,São João da Barra,BRRJ022,0,5
+2016,São João da Barra,BRRJ025,0,23
+2016,São João da Barra,BRRJ026,0,157
+2016,São João da Barra,BRRJ039,0,23
+2016,São João da Barra,BRRJ067,0,14
+2016,São Sebastião,BRSP006,0,574
+2016,São Sebastião,BRSSO,1,107
+2016,São Simão,BRGO001,0,320
+2016,São Simão,BRGO009,0,27
+2016,Tomé Açu,BRPA033,0,126
+2016,Vila do Conde - Belém,BRBEL,1,761
+2016,Vila do Conde - Belém,BRPA005,0,188
+2016,Vila do Conde - Belém,BRPA006,0,71
+2016,Vila do Conde - Belém,BRPA013,0,1130
+2016,Vila do Conde - Belém,BRPA014,0,132
+2016,Vila do Conde - Belém,BRPA016,0,442
+2016,Vila do Conde - Belém,BRPA018,0,891
+2016,Vila do Conde - Belém,BRPA043,0,21
+2016,Vila do Conde - Belém,BRVDC,1,819
+2016,Vitória,BRES001,0,770
+2016,Vitória,BRES002,0,19
+2016,Vitória,BRES003,0,136
+2016,Vitória,BRES004,0,386
+2016,Vitória,BRES005,0,307
+2016,Vitória,BRES007,0,57
+2016,Vitória,BRES020,0,20
+2016,Vitória,BRVIX,1,997
+2016,Óbidos,BRPA001,0,316
+2016,Óbidos,BRPA019,0,113
+2017,Almeirim,BRPA002,0,20
+2017,Almeirim,BRPA004,0,19
+2017,Angra dos Reis,BRADR,1,1
+2017,Angra dos Reis,BRRJ009,0,279
+2017,Angra dos Reis,BRRJ012,0,4
+2017,Aracajú,BRSE001,0,455
+2017,Aracajú,BRSE002,0,35
+2017,Aratu - Salvador,BRARB,1,644
+2017,Aratu - Salvador,BRBA002,0,92
+2017,Aratu - Salvador,BRBA003,0,532
+2017,Aratu - Salvador,BRBA006,0,14
+2017,Aratu - Salvador,BRBA007,0,113
+2017,Aratu - Salvador,BRBA008,0,61
+2017,Aratu - Salvador,BRBA009,0,17
+2017,Aratu - Salvador,BRSSA,1,531
+2017,Areia Branca,BRARE,1,1676
+2017,Barra do Riacho,BRES006,0,741
+2017,Barra do Riacho,BRES008,0,26
+2017,Barra do Riacho,BRES010,0,61
+2017,Barra do Riacho,BRES013,0,6
+2017,Cabedelo (Instalação Isolada),BRCDO,1,119
+2017,Coari (Instalação Isolada),BRAM009,0,459
+2017,Corumbá,BRMS001,0,917
+2017,Corumbá,BRMS002,0,1501
+2017,Corumbá,BRMS005,0,12
+2017,Ilhéus,BRBA004,0,277
+2017,Ilhéus,BRBA005,0,154
+2017,Ilhéus,BRIOS,1,18
+2017,Imbituba,BRIBB,1,244
+2017,Itaguaí,BRIGI,1,748
+2017,Itaguaí,BRRJ001,0,207
+2017,Itaguaí,BRRJ016,0,113
+2017,Itaguaí,BRRJ023,0,57
+2017,Itaguaí,BRRJ054,0,3
+2017,Itaituba,BRPA038,0,1047
+2017,Itaituba,BRPA045,0,67
+2017,Itaituba,BRPA064,0,53
+2017,Itaituba,BRPA068,0,173
+2017,Itajaí,BRITJ,1,198
+2017,Itajaí,BRSC001,0,28
+2017,Itajaí,BRSC008,0,660
+2017,Itajaí,BRSC012,0,24
+2017,Itajaí,BRSC017,0,12
+2017,Itaqui,BRIQI,1,733
+2017,Itaqui,BRMA001,0,336
+2017,Itaqui,BRMA002,0,784
+2017,LDC Pederneiras (Instalação Isolada),BRSP011,0,377
+2017,Macapá,BRAP003,0,149
+2017,Macapá,BRMCP,1,186
+2017,Maceió,BRAL001,0,79
+2017,Maceió,BRMCZ,1,165
+2017,Manaus,BRAM001,0,920
+2017,Manaus,BRAM003,0,16
+2017,Manaus,BRAM004,0,450
+2017,Manaus,BRAM006,0,116
+2017,Manaus,BRAM007,0,244
+2017,Manaus,BRAM008,0,300
+2017,Manaus,BRAM011,0,476
+2017,Manaus,BRAM012,0,183
+2017,Manaus,BRAM013,0,8
+2017,Manaus,BRAM014,0,2381
+2017,Manaus,BRAM015,0,120
+2017,Manaus,BRAM016,0,211
+2017,Manaus,BRAM017,0,762
+2017,Manaus,BRAM018,0,100
+2017,Manaus,BRAM021,0,373
+2017,Manaus,BRAM025,0,730
+2017,Manaus,BRAM028,0,180
+2017,Manaus,BRAM032,0,143
+2017,Manaus,BRAM034,0,128
+2017,Manaus,BRMAO,1,1
+2017,Natal,BRNAT,1,102
+2017,Natal,BRRN001,0,111
+2017,Paranaguá - Antonina,BRANT,1,60
+2017,Paranaguá - Antonina,BRPNG,1,1958
+2017,Paranaguá - Antonina,BRPR002,0,358
+2017,Pecém - Fortaleza,BRCE001,0,548
+2017,Pecém - Fortaleza,BRFOR,1,468
+2017,Porto Alegre,BRPOA,1,181
+2017,Porto Alegre,BRRS003,0,484
+2017,Porto Alegre,BRRS006,0,251
+2017,Porto Alegre,BRRS008,0,179
+2017,Porto Alegre,BRRS009,0,162
+2017,Porto Alegre,BRRS010,0,77
+2017,Porto Alegre,BRRS013,0,266
+2017,Porto Alegre,BRRS014,0,10
+2017,Porto Alegre,BRRS015,0,326
+2017,Porto Alegre,BRRS016,0,12
+2017,Porto Alegre,BRRS022,0,108
+2017,Porto Velho,BRPVH,1,1534
+2017,Porto Velho,BRRO001,0,5
+2017,Porto Velho,BRRO002,0,607
+2017,Porto Velho,BRRO003,0,207
+2017,Porto Velho,BRRO005,0,198
+2017,Porto Velho,BRRO006,0,498
+2017,Porto Velho,BRRO007,0,500
+2017,Porto Velho,BRRO010,0,97
+2017,Porto Velho,BRRO013,0,1231
+2017,Porto Velho,BRRO014,0,151
+2017,Porto Velho,BRRO016,0,209
+2017,Porto Velho,BRRO022,0,214
+2017,Porto Velho,BRRO025,0,89
+2017,Rio Grande,BRPET,1,363
+2017,Rio Grande,BRRIG,1,2375
+2017,Rio Grande,BRRS001,0,334
+2017,Rio Grande,BRRS002,0,388
+2017,Rio Grande,BRRS005,0,51
+2017,Rio Grande,BRRS007,0,139
+2017,Rio Grande,BRRS012,0,58
+2017,Rio de Janeiro -  Niterói,BRNTR,1,158
+2017,Rio de Janeiro -  Niterói,BRRIO,1,844
+2017,Rio de Janeiro -  Niterói,BRRJ003,0,56
+2017,Rio de Janeiro -  Niterói,BRRJ008,0,39
+2017,Rio de Janeiro -  Niterói,BRRJ010,0,1058
+2017,Rio de Janeiro -  Niterói,BRRJ014,0,60
+2017,Rio de Janeiro -  Niterói,BRRJ015,0,11
+2017,Rio de Janeiro -  Niterói,BRRJ017,0,30
+2017,Rio de Janeiro -  Niterói,BRRJ018,0,2
+2017,Rio de Janeiro -  Niterói,BRRJ019,0,33
+2017,Rio de Janeiro -  Niterói,BRRJ055,0,1
+2017,Rio de Janeiro -  Niterói,BRRJ056,0,170
+2017,Rio de Janeiro -  Niterói,BRRJ057,0,21
+2017,Santarém,BRPA017,0,520
+2017,Santarém,BRPA028,0,76
+2017,Santarém,BRSTM,1,2333
+2017,Santos,BRSP001,0,246
+2017,Santos,BRSP002,0,37
+2017,Santos,BRSP004,0,72
+2017,Santos,BRSP005,0,80
+2017,Santos,BRSP008,0,409
+2017,Santos,BRSP009,0,34
+2017,Santos,BRSSZ,1,4719
+2017,Sem complexo - Terminal Isolado,BRAC001,0,1
+2017,Sem complexo - Terminal Isolado,BRPR003,0,1
+2017,Suape - Recife,BRPE001,0,7
+2017,Suape - Recife,BRREC,1,295
+2017,Suape - Recife,BRSUA,1,1643
+2017,São Francisco do Sul,BRSC007,0,94
+2017,São Francisco do Sul,BRSC011,0,542
+2017,São Francisco do Sul,BRSFS,1,472
+2017,São João da Barra,BRRJ020,0,98
+2017,São João da Barra,BRRJ022,0,18
+2017,São João da Barra,BRRJ025,0,22
+2017,São João da Barra,BRRJ026,0,107
+2017,São João da Barra,BRRJ039,0,27
+2017,São João da Barra,BRRJ051,0,57
+2017,São João da Barra,BRRJ067,0,28
+2017,São Sebastião,BRSP006,0,558
+2017,São Sebastião,BRSSO,1,74
+2017,São Simão,BRGO001,0,564
+2017,São Simão,BRGO008,0,18
+2017,São Simão,BRGO009,0,154
+2017,Tomé Açu,BRPA033,0,122
+2017,Tomé Açu,BRPA034,0,2
+2017,Vila do Conde - Belém,BRBEL,1,897
+2017,Vila do Conde - Belém,BRPA005,0,663
+2017,Vila do Conde - Belém,BRPA006,0,60
+2017,Vila do Conde - Belém,BRPA013,0,1094
+2017,Vila do Conde - Belém,BRPA014,0,136
+2017,Vila do Conde - Belém,BRPA016,0,474
+2017,Vila do Conde - Belém,BRPA018,0,1115
+2017,Vila do Conde - Belém,BRPA043,0,132
+2017,Vila do Conde - Belém,BRPA065,0,4
+2017,Vila do Conde - Belém,BRPA067,0,77
+2017,Vila do Conde - Belém,BRVDC,1,751
+2017,Vitória,BRES001,0,828
+2017,Vitória,BRES002,0,12
+2017,Vitória,BRES003,0,176
+2017,Vitória,BRES004,0,347
+2017,Vitória,BRES005,0,4
+2017,Vitória,BRES007,0,65
+2017,Vitória,BRES020,0,3
+2017,Vitória,BRVIX,1,899
+2017,Óbidos,BRPA001,0,284
+2017,Óbidos,BRPA019,0,118
+2017,Óbidos,BRPA036,0,4
+2018,Almeirim,BRPA002,0,19
+2018,Almeirim,BRPA004,0,20
+2018,Angra dos Reis,BRRJ009,0,312
+2018,Angra dos Reis,BRRJ012,0,1
+2018,Aracajú,BRSE001,0,450
+2018,Aracajú,BRSE002,0,23
+2018,Aratu - Salvador,BRARB,1,591
+2018,Aratu - Salvador,BRBA002,0,89
+2018,Aratu - Salvador,BRBA003,0,579
+2018,Aratu - Salvador,BRBA006,0,25
+2018,Aratu - Salvador,BRBA007,0,108
+2018,Aratu - Salvador,BRBA008,0,54
+2018,Aratu - Salvador,BRBA009,0,21
+2018,Aratu - Salvador,BRSSA,1,519
+2018,Areia Branca,BRARE,1,1969
+2018,Barra do Riacho,BRES006,0,917
+2018,Barra do Riacho,BRES008,0,20
+2018,Barra do Riacho,BRES010,0,51
+2018,Barra do Riacho,BRES013,0,5
+2018,Cabedelo (Instalação Isolada),BRCDO,1,100
+2018,Coari (Instalação Isolada),BRAM009,0,439
+2018,Corumbá,BRMS001,0,530
+2018,Corumbá,BRMS002,0,1153
+2018,Corumbá,BRMS005,0,29
+2018,Estrela,BRRS004,0,2
+2018,Ilhéus,BRBA004,0,496
+2018,Ilhéus,BRBA005,0,159
+2018,Ilhéus,BRIOS,1,16
+2018,Imbituba,BRIBB,1,282
+2018,Itaguaí,BRIGI,1,742
+2018,Itaguaí,BRRJ001,0,194
+2018,Itaguaí,BRRJ016,0,130
+2018,Itaguaí,BRRJ023,0,65
+2018,Itaguaí,BRRJ054,0,2
+2018,Itaituba,BRPA038,0,1200
+2018,Itaituba,BRPA045,0,60
+2018,Itaituba,BRPA046,0,226
+2018,Itaituba,BRPA064,0,64
+2018,Itajaí,BRITJ,1,400
+2018,Itajaí,BRSC001,0,23
+2018,Itajaí,BRSC008,0,524
+2018,Itajaí,BRSC012,0,29
+2018,Itajaí,BRSC017,0,7
+2018,Itaqui,BRIQI,1,732
+2018,Itaqui,BRMA001,0,329
+2018,Itaqui,BRMA002,0,874
+2018,Macapá,BRAP003,0,147
+2018,Macapá,BRMCP,1,156
+2018,Maceió,BRAL001,0,76
+2018,Maceió,BRMCZ,1,164
+2018,Manaus,BRAM001,0,870
+2018,Manaus,BRAM003,0,7
+2018,Manaus,BRAM004,0,364
+2018,Manaus,BRAM006,0,115
+2018,Manaus,BRAM007,0,288
+2018,Manaus,BRAM008,0,330
+2018,Manaus,BRAM011,0,418
+2018,Manaus,BRAM012,0,187
+2018,Manaus,BRAM013,0,7
+2018,Manaus,BRAM014,0,2487
+2018,Manaus,BRAM015,0,51
+2018,Manaus,BRAM016,0,268
+2018,Manaus,BRAM017,0,713
+2018,Manaus,BRAM018,0,93
+2018,Manaus,BRAM021,0,161
+2018,Manaus,BRAM025,0,1009
+2018,Manaus,BRAM028,0,163
+2018,Manaus,BRAM032,0,134
+2018,Manaus,BRAM034,0,194
+2018,Manaus,BRAM081,0,15
+2018,Manaus,BRAM087,0,27
+2018,Manaus,BRMAO,1,1
+2018,Natal,BRNAT,1,74
+2018,Natal,BRRN001,0,101
+2018,Paranaguá - Antonina,BRANT,1,43
+2018,Paranaguá - Antonina,BRPNG,1,2012
+2018,Paranaguá - Antonina,BRPR002,0,273
+2018,Pecém - Fortaleza,BRCE001,0,593
+2018,Pecém - Fortaleza,BRFOR,1,449
+2018,Porto Alegre,BRPOA,1,130
+2018,Porto Alegre,BRRS003,0,641
+2018,Porto Alegre,BRRS006,0,247
+2018,Porto Alegre,BRRS008,0,270
+2018,Porto Alegre,BRRS009,0,165
+2018,Porto Alegre,BRRS010,0,82
+2018,Porto Alegre,BRRS013,0,781
+2018,Porto Alegre,BRRS014,0,23
+2018,Porto Alegre,BRRS015,0,331
+2018,Porto Alegre,BRRS016,0,29
+2018,Porto Alegre,BRRS022,0,121
+2018,Porto Velho,BRPVH,1,1602
+2018,Porto Velho,BRRO002,0,630
+2018,Porto Velho,BRRO003,0,32
+2018,Porto Velho,BRRO005,0,203
+2018,Porto Velho,BRRO006,0,500
+2018,Porto Velho,BRRO007,0,420
+2018,Porto Velho,BRRO010,0,224
+2018,Porto Velho,BRRO013,0,1751
+2018,Porto Velho,BRRO014,0,147
+2018,Porto Velho,BRRO016,0,233
+2018,Porto Velho,BRRO022,0,168
+2018,Porto Velho,BRRO025,0,136
+2018,Rio Grande,BRPET,1,377
+2018,Rio Grande,BRRIG,1,2458
+2018,Rio Grande,BRRS001,0,287
+2018,Rio Grande,BRRS002,0,429
+2018,Rio Grande,BRRS005,0,37
+2018,Rio Grande,BRRS007,0,203
+2018,Rio Grande,BRRS012,0,54
+2018,Rio de Janeiro -  Niterói,BRNTR,1,230
+2018,Rio de Janeiro -  Niterói,BRRIO,1,974
+2018,Rio de Janeiro -  Niterói,BRRJ003,0,48
+2018,Rio de Janeiro -  Niterói,BRRJ008,0,39
+2018,Rio de Janeiro -  Niterói,BRRJ010,0,1013
+2018,Rio de Janeiro -  Niterói,BRRJ014,0,23
+2018,Rio de Janeiro -  Niterói,BRRJ015,0,12
+2018,Rio de Janeiro -  Niterói,BRRJ017,0,44
+2018,Rio de Janeiro -  Niterói,BRRJ018,0,7
+2018,Rio de Janeiro -  Niterói,BRRJ019,0,26
+2018,Rio de Janeiro -  Niterói,BRRJ056,0,160
+2018,Rio de Janeiro -  Niterói,BRRJ057,0,53
+2018,Santarém,BRPA017,0,491
+2018,Santarém,BRPA028,0,72
+2018,Santarém,BRSTM,1,2679
+2018,Santos,BRSP001,0,258
+2018,Santos,BRSP002,0,60
+2018,Santos,BRSP004,0,81
+2018,Santos,BRSP005,0,90
+2018,Santos,BRSP008,0,440
+2018,Santos,BRSSZ,1,4629
+2018,Sem complexo - Terminal Isolado,BRAC001,0,7
+2018,Sem complexo - Terminal Isolado,BRPR003,0,10
+2018,Sem complexo - Terminal Isolado,BRRN003,0,77
+2018,Suape - Recife,BRPE001,0,6
+2018,Suape - Recife,BRREC,1,283
+2018,Suape - Recife,BRSUA,1,1454
+2018,São Francisco do Sul,BRSC007,0,98
+2018,São Francisco do Sul,BRSC011,0,517
+2018,São Francisco do Sul,BRSFS,1,444
+2018,São João da Barra,BRRJ020,0,19
+2018,São João da Barra,BRRJ022,0,21
+2018,São João da Barra,BRRJ025,0,8
+2018,São João da Barra,BRRJ026,0,57
+2018,São João da Barra,BRRJ039,0,15
+2018,São João da Barra,BRRJ051,0,80
+2018,São João da Barra,BRRJ053,0,16
+2018,São João da Barra,BRRJ067,0,68
+2018,São Sebastião,BRSP006,0,567
+2018,São Sebastião,BRSSO,1,93
+2018,São Simão,BRGO001,0,500
+2018,São Simão,BRGO008,0,87
+2018,São Simão,BRGO009,0,189
+2018,Tomé Açu,BRPA033,0,49
+2018,Vila do Conde - Belém,BRBEL,1,778
+2018,Vila do Conde - Belém,BRPA005,0,919
+2018,Vila do Conde - Belém,BRPA006,0,61
+2018,Vila do Conde - Belém,BRPA013,0,1037
+2018,Vila do Conde - Belém,BRPA014,0,49
+2018,Vila do Conde - Belém,BRPA016,0,494
+2018,Vila do Conde - Belém,BRPA018,0,1254
+2018,Vila do Conde - Belém,BRPA043,0,147
+2018,Vila do Conde - Belém,BRPA065,0,11
+2018,Vila do Conde - Belém,BRPA067,0,394
+2018,Vila do Conde - Belém,BRPA108,0,10
+2018,Vila do Conde - Belém,BRVDC,1,643
+2018,Vitória,BRES001,0,824
+2018,Vitória,BRES002,0,23
+2018,Vitória,BRES003,0,167
+2018,Vitória,BRES004,0,334
+2018,Vitória,BRES005,0,9
+2018,Vitória,BRES007,0,58
+2018,Vitória,BRVIX,1,802
+2018,Óbidos,BRPA001,0,262
+2018,Óbidos,BRPA019,0,120
+2018,Óbidos,BRPA036,0,24
+2019,Almeirim,BRPA002,0,13
+2019,Almeirim,BRPA004,0,15
+2019,Angra dos Reis,BRADR,1,1
+2019,Angra dos Reis,BRRJ009,0,376
+2019,Angra dos Reis,BRRJ012,0,3
+2019,Aracajú,BRSE001,0,492
+2019,Aracajú,BRSE002,0,19
+2019,Aratu - Salvador,BRARB,1,551
+2019,Aratu - Salvador,BRBA002,0,81
+2019,Aratu - Salvador,BRBA003,0,561
+2019,Aratu - Salvador,BRBA006,0,30
+2019,Aratu - Salvador,BRBA007,0,106
+2019,Aratu - Salvador,BRBA008,0,42
+2019,Aratu - Salvador,BRBA009,0,2
+2019,Aratu - Salvador,BRSSA,1,596
+2019,Areia Branca,BRARE,1,1764
+2019,Barra do Riacho,BRES006,0,785
+2019,Barra do Riacho,BRES008,0,26
+2019,Barra do Riacho,BRES010,0,49
+2019,Barra do Riacho,BRES013,0,1
+2019,Cabedelo (Instalação Isolada),BRCDO,1,89
+2019,Coari (Instalação Isolada),BRAM009,0,439
+2019,Corumbá,BRMS001,0,655
+2019,Corumbá,BRMS002,0,1059
+2019,Corumbá,BRMS005,0,18
+2019,Ilhéus,BRBA004,0,404
+2019,Ilhéus,BRBA005,0,151
+2019,Ilhéus,BRIOS,1,14
+2019,Imbituba,BRIBB,1,230
+2019,Itaguaí,BRIGI,1,621
+2019,Itaguaí,BRRJ001,0,100
+2019,Itaguaí,BRRJ016,0,130
+2019,Itaguaí,BRRJ023,0,107
+2019,Itaguaí,BRRJ054,0,2
+2019,Itaituba,BRPA038,0,1173
+2019,Itaituba,BRPA045,0,81
+2019,Itaituba,BRPA046,0,410
+2019,Itaituba,BRPA064,0,5
+2019,Itaituba,BRPA091,0,14
+2019,Itajaí,BRITJ,1,510
+2019,Itajaí,BRSC001,0,5
+2019,Itajaí,BRSC008,0,520
+2019,Itajaí,BRSC012,0,28
+2019,Itajaí,BRSC013,0,3
+2019,Itajaí,BRSC017,0,10
+2019,Itaqui,BRIQI,1,802
+2019,Itaqui,BRMA001,0,315
+2019,Itaqui,BRMA002,0,797
+2019,Macapá,BRAP003,0,146
+2019,Macapá,BRMCP,1,163
+2019,Maceió,BRAL001,0,49
+2019,Maceió,BRMCZ,1,158
+2019,Manaus,BRAM001,0,959
+2019,Manaus,BRAM003,0,13
+2019,Manaus,BRAM004,0,194
+2019,Manaus,BRAM006,0,170
+2019,Manaus,BRAM007,0,264
+2019,Manaus,BRAM008,0,321
+2019,Manaus,BRAM011,0,455
+2019,Manaus,BRAM012,0,180
+2019,Manaus,BRAM013,0,8
+2019,Manaus,BRAM014,0,2491
+2019,Manaus,BRAM015,0,23
+2019,Manaus,BRAM016,0,329
+2019,Manaus,BRAM017,0,709
+2019,Manaus,BRAM018,0,99
+2019,Manaus,BRAM021,0,147
+2019,Manaus,BRAM025,0,1293
+2019,Manaus,BRAM028,0,168
+2019,Manaus,BRAM029,0,9
+2019,Manaus,BRAM032,0,146
+2019,Manaus,BRAM034,0,169
+2019,Manaus,BRAM081,0,18
+2019,Manaus,BRAM087,0,52
+2019,Natal,BRNAT,1,69
+2019,Natal,BRRN001,0,100
+2019,Paranaguá - Antonina,BRANT,1,52
+2019,Paranaguá - Antonina,BRPNG,1,2081
+2019,Paranaguá - Antonina,BRPR002,0,259
+2019,Pecém - Fortaleza,BRCE001,0,695
+2019,Pecém - Fortaleza,BRFOR,1,433
+2019,Porto Alegre,BRPOA,1,132
+2019,Porto Alegre,BRRS003,0,542
+2019,Porto Alegre,BRRS006,0,266
+2019,Porto Alegre,BRRS008,0,200
+2019,Porto Alegre,BRRS009,0,167
+2019,Porto Alegre,BRRS010,0,76
+2019,Porto Alegre,BRRS013,0,776
+2019,Porto Alegre,BRRS014,0,6
+2019,Porto Alegre,BRRS015,0,199
+2019,Porto Alegre,BRRS016,0,40
+2019,Porto Alegre,BRRS022,0,128
+2019,Porto Alegre,BRRS028,0,78
+2019,Porto Velho,BRPVH,1,1780
+2019,Porto Velho,BRRO002,0,673
+2019,Porto Velho,BRRO005,0,193
+2019,Porto Velho,BRRO006,0,434
+2019,Porto Velho,BRRO007,0,488
+2019,Porto Velho,BRRO010,0,165
+2019,Porto Velho,BRRO013,0,1570
+2019,Porto Velho,BRRO014,0,148
+2019,Porto Velho,BRRO016,0,91
+2019,Porto Velho,BRRO022,0,184
+2019,Porto Velho,BRRO025,0,212
+2019,Rio Grande,BRPET,1,381
+2019,Rio Grande,BRRIG,1,2288
+2019,Rio Grande,BRRS001,0,261
+2019,Rio Grande,BRRS002,0,411
+2019,Rio Grande,BRRS005,0,45
+2019,Rio Grande,BRRS007,0,117
+2019,Rio Grande,BRRS012,0,31
+2019,Rio de Janeiro -  Niterói,BRNTR,1,95
+2019,Rio de Janeiro -  Niterói,BRRIO,1,1028
+2019,Rio de Janeiro -  Niterói,BRRJ003,0,34
+2019,Rio de Janeiro -  Niterói,BRRJ008,0,26
+2019,Rio de Janeiro -  Niterói,BRRJ010,0,1130
+2019,Rio de Janeiro -  Niterói,BRRJ013,0,1
+2019,Rio de Janeiro -  Niterói,BRRJ014,0,30
+2019,Rio de Janeiro -  Niterói,BRRJ015,0,11
+2019,Rio de Janeiro -  Niterói,BRRJ017,0,18
+2019,Rio de Janeiro -  Niterói,BRRJ019,0,37
+2019,Rio de Janeiro -  Niterói,BRRJ056,0,155
+2019,Rio de Janeiro -  Niterói,BRRJ057,0,49
+2019,Santarém,BRPA017,0,573
+2019,Santarém,BRPA028,0,60
+2019,Santarém,BRSTM,1,3291
+2019,Santos,BRSP001,0,280
+2019,Santos,BRSP002,0,67
+2019,Santos,BRSP004,0,74
+2019,Santos,BRSP005,0,81
+2019,Santos,BRSP008,0,588
+2019,Santos,BRSP009,0,1
+2019,Santos,BRSSZ,1,4337
+2019,Sem complexo - Terminal Isolado,BRAC001,0,2
+2019,Sem complexo - Terminal Isolado,BRPR003,0,8
+2019,Sem complexo - Terminal Isolado,BRRN003,0,101
+2019,Sem complexo - Terminal Isolado,BRSP023,0,35
+2019,Suape - Recife,BRPE001,0,2
+2019,Suape - Recife,BRREC,1,298
+2019,Suape - Recife,BRSUA,1,1478
+2019,São Francisco do Sul,BRSC007,0,100
+2019,São Francisco do Sul,BRSC011,0,586
+2019,São Francisco do Sul,BRSFS,1,453
+2019,São João da Barra,BRRJ020,0,137
+2019,São João da Barra,BRRJ022,0,41
+2019,São João da Barra,BRRJ025,0,27
+2019,São João da Barra,BRRJ026,0,79
+2019,São João da Barra,BRRJ039,0,18
+2019,São João da Barra,BRRJ051,0,16
+2019,São João da Barra,BRRJ053,0,953
+2019,São João da Barra,BRRJ067,0,123
+2019,São Sebastião,BRSP006,0,576
+2019,São Sebastião,BRSSO,1,72
+2019,São Simão,BRGO001,0,740
+2019,São Simão,BRGO009,0,133
+2019,Tomé Açu,BRPA033,0,15
+2019,Vila do Conde - Belém,BRBEL,1,789
+2019,Vila do Conde - Belém,BRPA005,0,978
+2019,Vila do Conde - Belém,BRPA006,0,52
+2019,Vila do Conde - Belém,BRPA013,0,1072
+2019,Vila do Conde - Belém,BRPA014,0,23
+2019,Vila do Conde - Belém,BRPA016,0,479
+2019,Vila do Conde - Belém,BRPA018,0,1252
+2019,Vila do Conde - Belém,BRPA043,0,185
+2019,Vila do Conde - Belém,BRPA065,0,19
+2019,Vila do Conde - Belém,BRPA067,0,434
+2019,Vila do Conde - Belém,BRPA108,0,47
+2019,Vila do Conde - Belém,BRVDC,1,714
+2019,Vitória,BRES001,0,612
+2019,Vitória,BRES002,0,8
+2019,Vitória,BRES003,0,164
+2019,Vitória,BRES004,0,331
+2019,Vitória,BRES005,0,7
+2019,Vitória,BRES007,0,62
+2019,Vitória,BRES020,0,17
+2019,Vitória,BRVIX,1,819
+2019,Vitória do Xingu,BRPA066,0,12
+2019,Óbidos,BRPA001,0,210
+2019,Óbidos,BRPA019,0,125
+2020,Almeirim,BRPA002,0,8
+2020,Almeirim,BRPA004,0,17
+2020,Angra dos Reis,BRADR,1,2
+2020,Angra dos Reis,BRRJ009,0,440
+2020,Aracajú,BRSE001,0,368
+2020,Aracajú,BRSE002,0,17
+2020,Aratu - Salvador,BRARB,1,572
+2020,Aratu - Salvador,BRBA002,0,72
+2020,Aratu - Salvador,BRBA003,0,601
+2020,Aratu - Salvador,BRBA006,0,22
+2020,Aratu - Salvador,BRBA007,0,103
+2020,Aratu - Salvador,BRBA008,0,34
+2020,Aratu - Salvador,BRBA009,0,18
+2020,Aratu - Salvador,BRSSA,1,585
+2020,Areia Branca,BRARE,1,1300
+2020,Areia Branca,BRRN004,0,543
+2020,Areia Branca,BRRN005,0,283
+2020,Areia Branca,BRRN006,0,83
+2020,Barra do Riacho,BRES006,0,783
+2020,Barra do Riacho,BRES008,0,24
+2020,Barra do Riacho,BRES010,0,28
+2020,Barra do Riacho,BRES013,0,2
+2020,Cabedelo (Instalação Isolada),BRCDO,1,86
+2020,Coari (Instalação Isolada),BRAM009,0,441
+2020,Corumbá,BRMS001,0,165
+2020,Corumbá,BRMS002,0,1081
+2020,Corumbá,BRMS005,0,125
+2020,Ilhéus,BRBA004,0,394
+2020,Ilhéus,BRBA005,0,150
+2020,Ilhéus,BRIOS,1,20
+2020,Imbituba,BRIBB,1,223
+2020,Itaguaí,BRIGI,1,632
+2020,Itaguaí,BRRJ001,0,129
+2020,Itaguaí,BRRJ016,0,138
+2020,Itaguaí,BRRJ023,0,128
+2020,Itaguaí,BRRJ054,0,1
+2020,Itaituba,BRPA038,0,1281
+2020,Itaituba,BRPA045,0,110
+2020,Itaituba,BRPA046,0,652
+2020,Itaituba,BRPA064,0,69
+2020,Itaituba,BRPA091,0,76
+2020,Itaituba,BRPA153,0,10
+2020,Itaituba,BRPA214,0,53
+2020,Itajaí,BRITJ,1,426
+2020,Itajaí,BRSC008,0,555
+2020,Itajaí,BRSC012,0,17
+2020,Itajaí,BRSC013,0,7
+2020,Itajaí,BRSC017,0,10
+2020,Itaqui,BRIQI,1,881
+2020,Itaqui,BRMA001,0,332
+2020,Itaqui,BRMA002,0,762
+2020,LDC Pederneiras (Instalação Isolada),BRSP011,0,743
+2020,Macapá,BRAP003,0,34
+2020,Macapá,BRMCP,1,150
+2020,Maceió,BRAL001,0,39
+2020,Maceió,BRMCZ,1,146
+2020,Manaus,BRAM001,0,1201
+2020,Manaus,BRAM003,0,13
+2020,Manaus,BRAM004,0,303
+2020,Manaus,BRAM006,0,178
+2020,Manaus,BRAM007,0,308
+2020,Manaus,BRAM008,0,343
+2020,Manaus,BRAM011,0,462
+2020,Manaus,BRAM012,0,169
+2020,Manaus,BRAM013,0,7
+2020,Manaus,BRAM014,0,2567
+2020,Manaus,BRAM015,0,8
+2020,Manaus,BRAM016,0,297
+2020,Manaus,BRAM017,0,917
+2020,Manaus,BRAM018,0,8
+2020,Manaus,BRAM021,0,172
+2020,Manaus,BRAM025,0,1478
+2020,Manaus,BRAM028,0,172
+2020,Manaus,BRAM029,0,8
+2020,Manaus,BRAM032,0,117
+2020,Manaus,BRAM034,0,175
+2020,Manaus,BRAM081,0,13
+2020,Manaus,BRAM087,0,63
+2020,Manaus,BRAM104,0,258
+2020,Natal,BRNAT,1,66
+2020,Natal,BRRN001,0,115
+2020,Paranaguá - Antonina,BRANT,1,60
+2020,Paranaguá - Antonina,BRPNG,1,2126
+2020,Paranaguá - Antonina,BRPR002,0,290
+2020,Pecém - Fortaleza,BRCE001,0,634
+2020,Pecém - Fortaleza,BRFOR,1,482
+2020,Porto Alegre,BRPOA,1,128
+2020,Porto Alegre,BRRS003,0,551
+2020,Porto Alegre,BRRS006,0,213
+2020,Porto Alegre,BRRS008,0,216
+2020,Porto Alegre,BRRS009,0,166
+2020,Porto Alegre,BRRS010,0,86
+2020,Porto Alegre,BRRS013,0,850
+2020,Porto Alegre,BRRS015,0,89
+2020,Porto Alegre,BRRS016,0,41
+2020,Porto Alegre,BRRS022,0,133
+2020,Porto Alegre,BRRS028,0,21
+2020,Porto Velho,BRPVH,1,1562
+2020,Porto Velho,BRRO002,0,883
+2020,Porto Velho,BRRO005,0,227
+2020,Porto Velho,BRRO006,0,494
+2020,Porto Velho,BRRO007,0,556
+2020,Porto Velho,BRRO009,0,482
+2020,Porto Velho,BRRO010,0,150
+2020,Porto Velho,BRRO013,0,1742
+2020,Porto Velho,BRRO014,0,174
+2020,Porto Velho,BRRO022,0,134
+2020,Porto Velho,BRRO025,0,259
+2020,Rio Grande,BRPET,1,423
+2020,Rio Grande,BRRIG,1,2190
+2020,Rio Grande,BRRS001,0,247
+2020,Rio Grande,BRRS002,0,312
+2020,Rio Grande,BRRS005,0,41
+2020,Rio Grande,BRRS007,0,89
+2020,Rio Grande,BRRS012,0,30
+2020,Rio de Janeiro -  Niterói,BRNTR,1,162
+2020,Rio de Janeiro -  Niterói,BRRIO,1,921
+2020,Rio de Janeiro -  Niterói,BRRJ003,0,40
+2020,Rio de Janeiro -  Niterói,BRRJ008,0,48
+2020,Rio de Janeiro -  Niterói,BRRJ010,0,1128
+2020,Rio de Janeiro -  Niterói,BRRJ014,0,39
+2020,Rio de Janeiro -  Niterói,BRRJ015,0,13
+2020,Rio de Janeiro -  Niterói,BRRJ018,0,11
+2020,Rio de Janeiro -  Niterói,BRRJ019,0,43
+2020,Rio de Janeiro -  Niterói,BRRJ056,0,199
+2020,Rio de Janeiro -  Niterói,BRRJ057,0,42
+2020,Santarém,BRPA017,0,728
+2020,Santarém,BRSTM,1,3634
+2020,Santos,BRSP001,0,334
+2020,Santos,BRSP002,0,48
+2020,Santos,BRSP004,0,76
+2020,Santos,BRSP005,0,84
+2020,Santos,BRSP008,0,689
+2020,Santos,BRSP009,0,1
+2020,Santos,BRSSZ,1,4241
+2020,Sem complexo - Terminal Isolado,BRRN003,0,6
+2020,Sem complexo - Terminal Isolado,BRRR001,0,14
+2020,Sem complexo - Terminal Isolado,BRSP023,0,53
+2020,Suape - Recife,BRREC,1,232
+2020,Suape - Recife,BRSUA,1,1440
+2020,São Francisco do Sul,BRSC007,0,96
+2020,São Francisco do Sul,BRSC011,0,533
+2020,São Francisco do Sul,BRSFS,1,423
+2020,São João da Barra,BRRJ020,0,150
+2020,São João da Barra,BRRJ022,0,27
+2020,São João da Barra,BRRJ025,0,45
+2020,São João da Barra,BRRJ026,0,67
+2020,São João da Barra,BRRJ039,0,11
+2020,São João da Barra,BRRJ053,0,260
+2020,São João da Barra,BRRJ067,0,191
+2020,São Sebastião,BRSP006,0,655
+2020,São Sebastião,BRSSO,1,67
+2020,São Simão,BRGO001,0,744
+2020,Vila do Conde - Belém,BRBEL,1,918
+2020,Vila do Conde - Belém,BRPA005,0,757
+2020,Vila do Conde - Belém,BRPA006,0,36
+2020,Vila do Conde - Belém,BRPA013,0,1311
+2020,Vila do Conde - Belém,BRPA014,0,2
+2020,Vila do Conde - Belém,BRPA016,0,480
+2020,Vila do Conde - Belém,BRPA018,0,1319
+2020,Vila do Conde - Belém,BRPA043,0,220
+2020,Vila do Conde - Belém,BRPA065,0,26
+2020,Vila do Conde - Belém,BRPA067,0,429
+2020,Vila do Conde - Belém,BRPA108,0,33
+2020,Vila do Conde - Belém,BRVDC,1,743
+2020,Vitória,BRES001,0,467
+2020,Vitória,BRES002,0,18
+2020,Vitória,BRES003,0,140
+2020,Vitória,BRES004,0,279
+2020,Vitória,BRES005,0,9
+2020,Vitória,BRES007,0,37
+2020,Vitória,BRES020,0,19
+2020,Vitória,BRVIX,1,686
+2020,Vitória do Xingu,BRPA066,0,17
+2020,Óbidos,BRPA001,0,223
+2020,Óbidos,BRPA019,0,130
+2021,Almeirim,BRPA002,0,8
+2021,Almeirim,BRPA004,0,15
+2021,Almeirim,BRPA208,0,1
+2021,Angra dos Reis,BRADR,1,3
+2021,Angra dos Reis,BRRJ009,0,456
+2021,Angra dos Reis,BRRJ012,0,1
+2021,Aracajú,BRSE001,0,356
+2021,Aracajú,BRSE002,0,15
+2021,Aratu - Salvador,BRARB,1,641
+2021,Aratu - Salvador,BRBA002,0,85
+2021,Aratu - Salvador,BRBA003,0,529
+2021,Aratu - Salvador,BRBA006,0,18
+2021,Aratu - Salvador,BRBA007,0,102
+2021,Aratu - Salvador,BRBA008,0,1
+2021,Aratu - Salvador,BRBA009,0,34
+2021,Aratu - Salvador,BRBA012,0,10
+2021,Aratu - Salvador,BRSSA,1,572
+2021,Areia Branca,BRARE,1,1402
+2021,Areia Branca,BRRN004,0,487
+2021,Areia Branca,BRRN005,0,294
+2021,Areia Branca,BRRN006,0,134
+2021,Barra do Riacho,BRES006,0,416
+2021,Barra do Riacho,BRES008,0,25
+2021,Barra do Riacho,BRES010,0,58
+2021,Barra do Riacho,BRES013,0,2
+2021,Cabedelo (Instalação Isolada),BRCDO,1,101
+2021,Coari (Instalação Isolada),BRAM009,0,406
+2021,Corumbá,BRMS001,0,596
+2021,Corumbá,BRMS002,0,1002
+2021,Corumbá,BRMS005,0,18
+2021,Forno,BRFNO,1,1
+2021,Ilhéus,BRBA004,0,36
+2021,Ilhéus,BRBA005,0,148
+2021,Ilhéus,BRIOS,1,27
+2021,Imbituba,BRIBB,1,284
+2021,Itaguaí,BRIGI,1,661
+2021,Itaguaí,BRRJ001,0,140
+2021,Itaguaí,BRRJ016,0,136
+2021,Itaguaí,BRRJ023,0,116
+2021,Itaguaí,BRRJ054,0,2
+2021,Itaituba,BRPA038,0,1136
+2021,Itaituba,BRPA045,0,85
+2021,Itaituba,BRPA046,0,422
+2021,Itaituba,BRPA064,0,43
+2021,Itaituba,BRPA091,0,79
+2021,Itaituba,BRPA153,0,9
+2021,Itaituba,BRPA214,0,91
+2021,Itaituba,BRPA230,0,5
+2021,Itaituba,BRPA248,0,237
+2021,Itajaí,BRITJ,1,369
+2021,Itajaí,BRSC001,0,24
+2021,Itajaí,BRSC008,0,608
+2021,Itajaí,BRSC012,0,32
+2021,Itajaí,BRSC013,0,9
+2021,Itajaí,BRSC017,0,11
+2021,Itaqui,BRIQI,1,967
+2021,Itaqui,BRMA001,0,315
+2021,Itaqui,BRMA002,0,714
+2021,LDC Pederneiras (Instalação Isolada),BRSP011,0,427
+2021,Macapá,BRAP019,0,33
+2021,Macapá,BRMCP,1,202
+2021,Maceió,BRAL001,0,68
+2021,Maceió,BRMCZ,1,158
+2021,Manaus,BRAM001,0,1227
+2021,Manaus,BRAM003,0,13
+2021,Manaus,BRAM004,0,296
+2021,Manaus,BRAM006,0,169
+2021,Manaus,BRAM007,0,316
+2021,Manaus,BRAM008,0,398
+2021,Manaus,BRAM011,0,445
+2021,Manaus,BRAM012,0,150
+2021,Manaus,BRAM013,0,5
+2021,Manaus,BRAM014,0,2633
+2021,Manaus,BRAM016,0,395
+2021,Manaus,BRAM017,0,1137
+2021,Manaus,BRAM018,0,45
+2021,Manaus,BRAM021,0,163
+2021,Manaus,BRAM025,0,1312
+2021,Manaus,BRAM028,0,190
+2021,Manaus,BRAM029,0,17
+2021,Manaus,BRAM032,0,88
+2021,Manaus,BRAM034,0,148
+2021,Manaus,BRAM069,0,3
+2021,Manaus,BRAM075,0,20
+2021,Manaus,BRAM081,0,26
+2021,Manaus,BRAM087,0,117
+2021,Manaus,BRAM104,0,210
+2021,Natal,BRNAT,1,131
+2021,Natal,BRRN001,0,133
+2021,Paranaguá - Antonina,BRANT,1,95
+2021,Paranaguá - Antonina,BRPNG,1,2040
+2021,Paranaguá - Antonina,BRPR002,0,287
+2021,Pecém - Fortaleza,BRCE001,0,799
+2021,Pecém - Fortaleza,BRFOR,1,473
+2021,Porto Alegre,BRPOA,1,208
+2021,Porto Alegre,BRRS003,0,618
+2021,Porto Alegre,BRRS006,0,231
+2021,Porto Alegre,BRRS008,0,173
+2021,Porto Alegre,BRRS009,0,164
+2021,Porto Alegre,BRRS010,0,69
+2021,Porto Alegre,BRRS013,0,987
+2021,Porto Alegre,BRRS014,0,10
+2021,Porto Alegre,BRRS015,0,188
+2021,Porto Alegre,BRRS016,0,23
+2021,Porto Alegre,BRRS022,0,116
+2021,Porto Alegre,BRRS030,0,24
+2021,Porto Murtinho,BRMS011,0,11
+2021,Porto Velho,BRPVH,1,1332
+2021,Porto Velho,BRRO002,0,978
+2021,Porto Velho,BRRO003,0,60
+2021,Porto Velho,BRRO005,0,235
+2021,Porto Velho,BRRO006,0,325
+2021,Porto Velho,BRRO007,0,469
+2021,Porto Velho,BRRO009,0,647
+2021,Porto Velho,BRRO010,0,176
+2021,Porto Velho,BRRO011,0,9
+2021,Porto Velho,BRRO013,0,1601
+2021,Porto Velho,BRRO014,0,107
+2021,Porto Velho,BRRO022,0,88
+2021,Porto Velho,BRRO025,0,190
+2021,Porto Velho,BRRO030,0,93
+2021,Rio Grande,BRPET,1,481
+2021,Rio Grande,BRRIG,1,2434
+2021,Rio Grande,BRRS001,0,287
+2021,Rio Grande,BRRS002,0,381
+2021,Rio Grande,BRRS005,0,46
+2021,Rio Grande,BRRS007,0,166
+2021,Rio Grande,BRRS012,0,83
+2021,Rio de Janeiro -  Niterói,BRNTR,1,226
+2021,Rio de Janeiro -  Niterói,BRRIO,1,908
+2021,Rio de Janeiro -  Niterói,BRRJ003,0,39
+2021,Rio de Janeiro -  Niterói,BRRJ008,0,43
+2021,Rio de Janeiro -  Niterói,BRRJ010,0,1029
+2021,Rio de Janeiro -  Niterói,BRRJ011,0,1
+2021,Rio de Janeiro -  Niterói,BRRJ014,0,28
+2021,Rio de Janeiro -  Niterói,BRRJ015,0,16
+2021,Rio de Janeiro -  Niterói,BRRJ018,0,72
+2021,Rio de Janeiro -  Niterói,BRRJ019,0,39
+2021,Rio de Janeiro -  Niterói,BRRJ056,0,152
+2021,Rio de Janeiro -  Niterói,BRRJ057,0,56
+2021,Santarém,BRPA017,0,723
+2021,Santarém,BRPA028,0,47
+2021,Santarém,BRPA237,0,125
+2021,Santarém,BRSTM,1,2620
+2021,Santos,BRSP001,0,307
+2021,Santos,BRSP002,0,67
+2021,Santos,BRSP004,0,76
+2021,Santos,BRSP005,0,93
+2021,Santos,BRSP008,0,678
+2021,Santos,BRSP009,0,1
+2021,Santos,BRSSZ,1,4171
+2021,Sem complexo - Terminal Isolado,BRAM079,0,175
+2021,Sem complexo - Terminal Isolado,BRRN003,0,96
+2021,Sem complexo - Terminal Isolado,BRRR001,0,20
+2021,Sem complexo - Terminal Isolado,BRSP023,0,20
+2021,Suape - Recife,BRREC,1,269
+2021,Suape - Recife,BRSUA,1,1451
+2021,São Francisco do Sul,BRSC007,0,98
+2021,São Francisco do Sul,BRSC011,0,496
+2021,São Francisco do Sul,BRSFS,1,472
+2021,São João da Barra,BRRJ020,0,144
+2021,São João da Barra,BRRJ022,0,49
+2021,São João da Barra,BRRJ025,0,35
+2021,São João da Barra,BRRJ026,0,1
+2021,São João da Barra,BRRJ039,0,8
+2021,São João da Barra,BRRJ051,0,94
+2021,São João da Barra,BRRJ067,0,209
+2021,São João da Barra,BRRJ074,0,5
+2021,São João da Barra,BRRJ078,0,49
+2021,São Sebastião,BRSP006,0,707
+2021,São Sebastião,BRSSO,1,53
+2021,São Simão,BRGO001,0,430
+2021,São Simão,BRGO009,0,118
+2021,São Simão,BRGO010,0,20
+2021,Vila do Conde - Belém,BRBEL,1,1059
+2021,Vila do Conde - Belém,BRPA005,0,145
+2021,Vila do Conde - Belém,BRPA006,0,31
+2021,Vila do Conde - Belém,BRPA013,0,1419
+2021,Vila do Conde - Belém,BRPA014,0,1
+2021,Vila do Conde - Belém,BRPA016,0,530
+2021,Vila do Conde - Belém,BRPA018,0,1080
+2021,Vila do Conde - Belém,BRPA043,0,209
+2021,Vila do Conde - Belém,BRPA061,0,16
+2021,Vila do Conde - Belém,BRPA065,0,28
+2021,Vila do Conde - Belém,BRPA067,0,337
+2021,Vila do Conde - Belém,BRPA108,0,43
+2021,Vila do Conde - Belém,BRVDC,1,775
+2021,Vitória,BRES001,0,495
+2021,Vitória,BRES002,0,76
+2021,Vitória,BRES003,0,175
+2021,Vitória,BRES004,0,289
+2021,Vitória,BRES005,0,48
+2021,Vitória,BRES007,0,56
+2021,Vitória,BRES020,0,23
+2021,Vitória,BRES023,0,1
+2021,Vitória,BRVIX,1,751
+2021,Vitória do Xingu,BRPA066,0,5
+2021,Óbidos,BRPA001,0,227
+2021,Óbidos,BRPA019,0,124
+2022,Almeirim,BRPA002,0,6
+2022,Almeirim,BRPA004,0,9
+2022,Almeirim,BRPA208,0,15
+2022,Angra dos Reis,BRADR,1,60
+2022,Angra dos Reis,BRRJ009,0,457
+2022,Aracajú,BRSE001,0,330
+2022,Aracajú,BRSE002,0,9
+2022,Aratu - Salvador,BRARB,1,594
+2022,Aratu - Salvador,BRBA002,0,77
+2022,Aratu - Salvador,BRBA003,0,359
+2022,Aratu - Salvador,BRBA006,0,20
+2022,Aratu - Salvador,BRBA007,0,110
+2022,Aratu - Salvador,BRBA009,0,19
+2022,Aratu - Salvador,BRBA012,0,23
+2022,Aratu - Salvador,BRSSA,1,507
+2022,Areia Branca,BRARE,1,1418
+2022,Areia Branca,BRRN004,0,499
+2022,Areia Branca,BRRN005,0,334
+2022,Areia Branca,BRRN006,0,159
+2022,Barra do Riacho,BRES006,0,400
+2022,Barra do Riacho,BRES008,0,24
+2022,Barra do Riacho,BRES010,0,42
+2022,Barra do Riacho,BRES013,0,2
+2022,Cabedelo (Instalação Isolada),BRCDO,1,98
+2022,Coari (Instalação Isolada),BRAM009,0,392
+2022,Corumbá,BRMS001,0,760
+2022,Corumbá,BRMS002,0,1722
+2022,Ilhéus,BRBA005,0,151
+2022,Ilhéus,BRIOS,1,28
+2022,Imbituba,BRIBB,1,315
+2022,Itaguaí,BRIGI,1,522
+2022,Itaguaí,BRRJ001,0,132
+2022,Itaguaí,BRRJ016,0,139
+2022,Itaguaí,BRRJ023,0,121
+2022,Itaguaí,BRRJ054,0,4
+2022,Itaituba,BRPA038,0,1527
+2022,Itaituba,BRPA045,0,121
+2022,Itaituba,BRPA046,0,728
+2022,Itaituba,BRPA064,0,6
+2022,Itaituba,BRPA091,0,93
+2022,Itaituba,BRPA153,0,8
+2022,Itaituba,BRPA214,0,111
+2022,Itaituba,BRPA230,0,65
+2022,Itaituba,BRPA246,0,121
+2022,Itaituba,BRPA248,0,748
+2022,Itaituba,BRPA249,0,274
+2022,Itajaí,BRITJ,1,243
+2022,Itajaí,BRSC001,0,16
+2022,Itajaí,BRSC008,0,635
+2022,Itajaí,BRSC012,0,36
+2022,Itajaí,BRSC013,0,13
+2022,Itajaí,BRSC017,0,6
+2022,Itaqui,BRIQI,1,978
+2022,Itaqui,BRMA001,0,343
+2022,Itaqui,BRMA002,0,634
+2022,LDC Pederneiras (Instalação Isolada),BRSP011,0,312
+2022,Macapá,BRAP019,0,64
+2022,Macapá,BRMCP,1,309
+2022,Maceió,BRAL001,0,62
+2022,Maceió,BRMCZ,1,171
+2022,Manaus,BRAM001,0,1195
+2022,Manaus,BRAM003,0,13
+2022,Manaus,BRAM004,0,301
+2022,Manaus,BRAM006,0,160
+2022,Manaus,BRAM007,0,338
+2022,Manaus,BRAM008,0,372
+2022,Manaus,BRAM011,0,427
+2022,Manaus,BRAM012,0,128
+2022,Manaus,BRAM013,0,5
+2022,Manaus,BRAM014,0,2710
+2022,Manaus,BRAM016,0,478
+2022,Manaus,BRAM017,0,1011
+2022,Manaus,BRAM018,0,5
+2022,Manaus,BRAM021,0,163
+2022,Manaus,BRAM025,0,1304
+2022,Manaus,BRAM028,0,178
+2022,Manaus,BRAM029,0,17
+2022,Manaus,BRAM032,0,90
+2022,Manaus,BRAM034,0,134
+2022,Manaus,BRAM069,0,32
+2022,Manaus,BRAM075,0,150
+2022,Manaus,BRAM081,0,20
+2022,Manaus,BRAM087,0,41
+2022,Manaus,BRAM088,0,239
+2022,Manaus,BRAM104,0,40
+2022,Manaus,BRAM155,0,227
+2022,Natal,BRNAT,1,194
+2022,Natal,BRRN001,0,124
+2022,Paranaguá - Antonina,BRANT,1,97
+2022,Paranaguá - Antonina,BRPNG,1,2011
+2022,Paranaguá - Antonina,BRPR002,0,338
+2022,Pecém - Fortaleza,BRCE001,0,619
+2022,Pecém - Fortaleza,BRFOR,1,450
+2022,Porto Alegre,BRPOA,1,140
+2022,Porto Alegre,BRRS003,0,514
+2022,Porto Alegre,BRRS006,0,172
+2022,Porto Alegre,BRRS008,0,112
+2022,Porto Alegre,BRRS009,0,153
+2022,Porto Alegre,BRRS010,0,75
+2022,Porto Alegre,BRRS013,0,983
+2022,Porto Alegre,BRRS014,0,2
+2022,Porto Alegre,BRRS015,0,89
+2022,Porto Alegre,BRRS016,0,23
+2022,Porto Alegre,BRRS022,0,22
+2022,Porto Alegre,BRRS030,0,134
+2022,Porto Murtinho,BRMS011,0,17
+2022,Porto Velho,BRPVH,1,1154
+2022,Porto Velho,BRRO002,0,934
+2022,Porto Velho,BRRO003,0,168
+2022,Porto Velho,BRRO005,0,267
+2022,Porto Velho,BRRO006,0,432
+2022,Porto Velho,BRRO007,0,242
+2022,Porto Velho,BRRO009,0,359
+2022,Porto Velho,BRRO010,0,145
+2022,Porto Velho,BRRO011,0,26
+2022,Porto Velho,BRRO013,0,1746
+2022,Porto Velho,BRRO014,0,116
+2022,Porto Velho,BRRO022,0,90
+2022,Porto Velho,BRRO025,0,148
+2022,Porto Velho,BRRO030,0,284
+2022,Rio Grande,BRPET,1,405
+2022,Rio Grande,BRRIG,1,2261
+2022,Rio Grande,BRRS001,0,222
+2022,Rio Grande,BRRS002,0,326
+2022,Rio Grande,BRRS005,0,36
+2022,Rio Grande,BRRS007,0,90
+2022,Rio Grande,BRRS012,0,71
+2022,Rio de Janeiro -  Niterói,BRNTR,1,246
+2022,Rio de Janeiro -  Niterói,BRRIO,1,1046
+2022,Rio de Janeiro -  Niterói,BRRJ003,0,35
+2022,Rio de Janeiro -  Niterói,BRRJ008,0,47
+2022,Rio de Janeiro -  Niterói,BRRJ010,0,1195
+2022,Rio de Janeiro -  Niterói,BRRJ014,0,106
+2022,Rio de Janeiro -  Niterói,BRRJ015,0,16
+2022,Rio de Janeiro -  Niterói,BRRJ018,0,10
+2022,Rio de Janeiro -  Niterói,BRRJ019,0,28
+2022,Rio de Janeiro -  Niterói,BRRJ027,0,3
+2022,Rio de Janeiro -  Niterói,BRRJ056,0,50
+2022,Rio de Janeiro -  Niterói,BRRJ057,0,67
+2022,Rio de Janeiro -  Niterói,BRRJ080,0,7
+2022,Santarém,BRPA017,0,692
+2022,Santarém,BRPA028,0,32
+2022,Santarém,BRPA237,0,201
+2022,Santarém,BRPA297,0,5
+2022,Santarém,BRSTM,1,3194
+2022,Santos,BRSP001,0,306
+2022,Santos,BRSP002,0,47
+2022,Santos,BRSP004,0,73
+2022,Santos,BRSP005,0,93
+2022,Santos,BRSP008,0,684
+2022,Santos,BRSP009,0,6
+2022,Santos,BRSSZ,1,4572
+2022,Sem complexo - Terminal Isolado,BRAM079,0,224
+2022,Sem complexo - Terminal Isolado,BRRN003,0,61
+2022,Sem complexo - Terminal Isolado,BRRR001,0,69
+2022,Suape - Recife,BRREC,1,294
+2022,Suape - Recife,BRSUA,1,1506
+2022,São Francisco do Sul,BRSC007,0,89
+2022,São Francisco do Sul,BRSC011,0,548
+2022,São Francisco do Sul,BRSFS,1,473
+2022,São João da Barra,BRRJ020,0,131
+2022,São João da Barra,BRRJ022,0,65
+2022,São João da Barra,BRRJ025,0,55
+2022,São João da Barra,BRRJ026,0,171
+2022,São João da Barra,BRRJ039,0,23
+2022,São João da Barra,BRRJ051,0,164
+2022,São João da Barra,BRRJ053,0,4
+2022,São João da Barra,BRRJ067,0,296
+2022,São João da Barra,BRRJ074,0,3
+2022,São João da Barra,BRRJ078,0,184
+2022,São Sebastião,BRSP006,0,746
+2022,São Sebastião,BRSSO,1,59
+2022,São Simão,BRGO001,0,320
+2022,São Simão,BRGO009,0,150
+2022,Tomé Açu,BRPA034,0,26
+2022,Vila do Conde - Belém,BRBEL,1,1050
+2022,Vila do Conde - Belém,BRPA005,0,152
+2022,Vila do Conde - Belém,BRPA006,0,36
+2022,Vila do Conde - Belém,BRPA013,0,1438
+2022,Vila do Conde - Belém,BRPA014,0,26
+2022,Vila do Conde - Belém,BRPA016,0,958
+2022,Vila do Conde - Belém,BRPA018,0,1574
+2022,Vila do Conde - Belém,BRPA043,0,273
+2022,Vila do Conde - Belém,BRPA061,0,18
+2022,Vila do Conde - Belém,BRPA065,0,42
+2022,Vila do Conde - Belém,BRPA067,0,309
+2022,Vila do Conde - Belém,BRPA108,0,41
+2022,Vila do Conde - Belém,BRVDC,1,1043
+2022,Vitória,BRES001,0,462
+2022,Vitória,BRES002,0,91
+2022,Vitória,BRES003,0,168
+2022,Vitória,BRES004,0,259
+2022,Vitória,BRES005,0,53
+2022,Vitória,BRES007,0,47
+2022,Vitória,BRES020,0,29
+2022,Vitória,BRVIX,1,759
+2022,Vitória do Xingu,BRPA066,0,12
+2022,Óbidos,BRPA001,0,234
+2022,Óbidos,BRPA019,0,104
+2023,Almeirim,BRPA002,0,4
+2023,Almeirim,BRPA208,0,9
+2023,Angra dos Reis,BRADR,1,25
+2023,Angra dos Reis,BRRJ009,0,490
+2023,Angra dos Reis,BRRJ012,0,2
+2023,Aracajú,BRSE001,0,361
+2023,Aracajú,BRSE002,0,4
+2023,Aratu - Salvador,BRARB,1,515
+2023,Aratu - Salvador,BRBA002,0,91
+2023,Aratu - Salvador,BRBA003,0,440
+2023,Aratu - Salvador,BRBA006,0,27
+2023,Aratu - Salvador,BRBA007,0,119
+2023,Aratu - Salvador,BRBA009,0,7
+2023,Aratu - Salvador,BRBA012,0,19
+2023,Aratu - Salvador,BRBA013,0,1
+2023,Aratu - Salvador,BRSSA,1,569
+2023,Areia Branca,BRARE,1,1185
+2023,Areia Branca,BRRN004,0,478
+2023,Areia Branca,BRRN005,0,282
+2023,Areia Branca,BRRN006,0,159
+2023,Barra do Riacho,BRES006,0,396
+2023,Barra do Riacho,BRES008,0,17
+2023,Barra do Riacho,BRES010,0,15
+2023,Barra do Riacho,BRES013,0,7
+2023,Cabedelo (Instalação Isolada),BRCDO,1,98
+2023,Coari (Instalação Isolada),BRAM009,0,438
+2023,Corumbá,BRMS001,0,1076
+2023,Corumbá,BRMS002,0,1507
+2023,Corumbá,BRMS022,0,28
+2023,Ilhéus,BRBA005,0,151
+2023,Ilhéus,BRIOS,1,35
+2023,Imbituba,BRIBB,1,317
+2023,Itaguaí,BRIGI,1,526
+2023,Itaguaí,BRRJ001,0,133
+2023,Itaguaí,BRRJ016,0,151
+2023,Itaguaí,BRRJ023,0,165
+2023,Itaguaí,BRRJ054,0,8
+2023,Itaituba,BRPA038,0,1772
+2023,Itaituba,BRPA045,0,112
+2023,Itaituba,BRPA046,0,958
+2023,Itaituba,BRPA064,0,3
+2023,Itaituba,BRPA091,0,83
+2023,Itaituba,BRPA153,0,9
+2023,Itaituba,BRPA214,0,361
+2023,Itaituba,BRPA230,0,143
+2023,Itaituba,BRPA246,0,32
+2023,Itaituba,BRPA248,0,1212
+2023,Itaituba,BRPA249,0,327
+2023,Itajaí,BRITJ,1,38
+2023,Itajaí,BRSC001,0,16
+2023,Itajaí,BRSC008,0,652
+2023,Itajaí,BRSC012,0,20
+2023,Itajaí,BRSC013,0,9
+2023,Itajaí,BRSC017,0,2
+2023,Itaqui,BRIQI,1,1026
+2023,Itaqui,BRMA001,0,319
+2023,Itaqui,BRMA002,0,626
+2023,LDC Pederneiras (Instalação Isolada),BRSP011,0,736
+2023,Macapá,BRAP019,0,67
+2023,Macapá,BRMCP,1,534
+2023,Maceió,BRAL001,0,78
+2023,Maceió,BRMCZ,1,160
+2023,Manaus,BRAM001,0,1172
+2023,Manaus,BRAM003,0,13
+2023,Manaus,BRAM004,0,303
+2023,Manaus,BRAM006,0,172
+2023,Manaus,BRAM007,0,294
+2023,Manaus,BRAM008,0,356
+2023,Manaus,BRAM011,0,400
+2023,Manaus,BRAM012,0,120
+2023,Manaus,BRAM013,0,5
+2023,Manaus,BRAM014,0,3040
+2023,Manaus,BRAM016,0,516
+2023,Manaus,BRAM017,0,1002
+2023,Manaus,BRAM018,0,8
+2023,Manaus,BRAM021,0,173
+2023,Manaus,BRAM025,0,942
+2023,Manaus,BRAM028,0,184
+2023,Manaus,BRAM029,0,18
+2023,Manaus,BRAM032,0,42
+2023,Manaus,BRAM034,0,132
+2023,Manaus,BRAM069,0,36
+2023,Manaus,BRAM075,0,121
+2023,Manaus,BRAM081,0,13
+2023,Manaus,BRAM087,0,38
+2023,Manaus,BRAM088,0,299
+2023,Manaus,BRAM091,0,493
+2023,Manaus,BRAM104,0,101
+2023,Manaus,BRAM155,0,181
+2023,Natal,BRNAT,1,164
+2023,Natal,BRRN001,0,95
+2023,Paranaguá - Antonina,BRANT,1,88
+2023,Paranaguá - Antonina,BRPNG,1,2173
+2023,Paranaguá - Antonina,BRPR002,0,330
+2023,Pecém - Fortaleza,BRCE001,0,674
+2023,Pecém - Fortaleza,BRFOR,1,403
+2023,Porto Alegre,BRPOA,1,139
+2023,Porto Alegre,BRRS003,0,430
+2023,Porto Alegre,BRRS006,0,260
+2023,Porto Alegre,BRRS008,0,104
+2023,Porto Alegre,BRRS009,0,181
+2023,Porto Alegre,BRRS010,0,82
+2023,Porto Alegre,BRRS013,0,824
+2023,Porto Alegre,BRRS014,0,10
+2023,Porto Alegre,BRRS015,0,127
+2023,Porto Alegre,BRRS016,0,37
+2023,Porto Alegre,BRRS022,0,2
+2023,Porto Alegre,BRRS030,0,181
+2023,Porto Murtinho,BRMS011,0,71
+2023,Porto Velho,BRPVH,1,1170
+2023,Porto Velho,BRRO002,0,790
+2023,Porto Velho,BRRO003,0,153
+2023,Porto Velho,BRRO005,0,207
+2023,Porto Velho,BRRO006,0,494
+2023,Porto Velho,BRRO007,0,201
+2023,Porto Velho,BRRO009,0,344
+2023,Porto Velho,BRRO010,0,132
+2023,Porto Velho,BRRO011,0,39
+2023,Porto Velho,BRRO013,0,1985
+2023,Porto Velho,BRRO014,0,129
+2023,Porto Velho,BRRO022,0,99
+2023,Porto Velho,BRRO025,0,210
+2023,Porto Velho,BRRO030,0,210
+2023,Rio Grande,BRPET,1,419
+2023,Rio Grande,BRRIG,1,2234
+2023,Rio Grande,BRRS001,0,196
+2023,Rio Grande,BRRS002,0,452
+2023,Rio Grande,BRRS005,0,54
+2023,Rio Grande,BRRS007,0,109
+2023,Rio Grande,BRRS012,0,70
+2023,Rio de Janeiro -  Niterói,BRNTR,1,191
+2023,Rio de Janeiro -  Niterói,BRRIO,1,1201
+2023,Rio de Janeiro -  Niterói,BRRJ003,0,48
+2023,Rio de Janeiro -  Niterói,BRRJ008,0,56
+2023,Rio de Janeiro -  Niterói,BRRJ010,0,1157
+2023,Rio de Janeiro -  Niterói,BRRJ014,0,44
+2023,Rio de Janeiro -  Niterói,BRRJ015,0,16
+2023,Rio de Janeiro -  Niterói,BRRJ018,0,3
+2023,Rio de Janeiro -  Niterói,BRRJ019,0,35
+2023,Rio de Janeiro -  Niterói,BRRJ027,0,1
+2023,Rio de Janeiro -  Niterói,BRRJ057,0,71
+2023,Rio de Janeiro -  Niterói,BRRJ066,0,7
+2023,Rio de Janeiro -  Niterói,BRRJ080,0,3
+2023,Santarém,BRPA017,0,653
+2023,Santarém,BRPA028,0,72
+2023,Santarém,BRPA237,0,260
+2023,Santarém,BRPA297,0,47
+2023,Santarém,BRSTM,1,3301
+2023,Santos,BRSP001,0,319
+2023,Santos,BRSP002,0,44
+2023,Santos,BRSP004,0,103
+2023,Santos,BRSP005,0,68
+2023,Santos,BRSP008,0,753
+2023,Santos,BRSP009,0,74
+2023,Santos,BRSSZ,1,4552
+2023,Sem complexo - Terminal Isolado,BRAM079,0,188
+2023,Sem complexo - Terminal Isolado,BRRR001,0,82
+2023,Suape - Recife,BRPE001,0,1
+2023,Suape - Recife,BRREC,1,362
+2023,Suape - Recife,BRSUA,1,1510
+2023,São Francisco do Sul,BRSC007,0,114
+2023,São Francisco do Sul,BRSC011,0,570
+2023,São Francisco do Sul,BRSFS,1,480
+2023,São João da Barra,BRRJ020,0,145
+2023,São João da Barra,BRRJ022,0,92
+2023,São João da Barra,BRRJ025,0,65
+2023,São João da Barra,BRRJ026,0,199
+2023,São João da Barra,BRRJ039,0,33
+2023,São João da Barra,BRRJ051,0,133
+2023,São João da Barra,BRRJ053,0,2296
+2023,São João da Barra,BRRJ067,0,369
+2023,São João da Barra,BRRJ074,0,1
+2023,São João da Barra,BRRJ078,0,234
+2023,São Sebastião,BRSP006,0,730
+2023,São Sebastião,BRSSO,1,81
+2023,São Simão,BRGO001,0,734
+2023,São Simão,BRGO009,0,91
+2023,Tomé Açu,BRPA033,0,26
+2023,Vila do Conde - Belém,BRBEL,1,1244
+2023,Vila do Conde - Belém,BRPA005,0,96
+2023,Vila do Conde - Belém,BRPA006,0,25
+2023,Vila do Conde - Belém,BRPA013,0,1484
+2023,Vila do Conde - Belém,BRPA014,0,26
+2023,Vila do Conde - Belém,BRPA016,0,333
+2023,Vila do Conde - Belém,BRPA018,0,1849
+2023,Vila do Conde - Belém,BRPA043,0,243
+2023,Vila do Conde - Belém,BRPA061,0,20
+2023,Vila do Conde - Belém,BRPA065,0,37
+2023,Vila do Conde - Belém,BRPA067,0,439
+2023,Vila do Conde - Belém,BRPA108,0,29
+2023,Vila do Conde - Belém,BRVDC,1,1194
+2023,Vitória,BRES001,0,497
+2023,Vitória,BRES002,0,106
+2023,Vitória,BRES003,0,153
+2023,Vitória,BRES004,0,284
+2023,Vitória,BRES005,0,78
+2023,Vitória,BRES007,0,53
+2023,Vitória,BRVIX,1,784
+2023,Vitória do Xingu,BRPA066,0,16
+2023,Óbidos,BRPA001,0,245
+2023,Óbidos,BRPA019,0,112
+2024,Almeirim,BRPA002,0,4
+2024,Almeirim,BRPA208,0,1
+2024,Angra dos Reis,BRADR,1,29
+2024,Angra dos Reis,BRRJ009,0,512
+2024,Angra dos Reis,BRRJ012,0,5
+2024,Aracajú,BRSE001,0,461
+2024,Aracajú,BRSE002,0,10
+2024,Aratu - Salvador,BRARB,1,513
+2024,Aratu - Salvador,BRBA002,0,77
+2024,Aratu - Salvador,BRBA003,0,497
+2024,Aratu - Salvador,BRBA006,0,18
+2024,Aratu - Salvador,BRBA007,0,103
+2024,Aratu - Salvador,BRBA009,0,19
+2024,Aratu - Salvador,BRBA012,0,15
+2024,Aratu - Salvador,BRBA013,0,1
+2024,Aratu - Salvador,BRSSA,1,557
+2024,Areia Branca,BRARE,1,1087
+2024,Areia Branca,BRRN004,0,409
+2024,Areia Branca,BRRN005,0,166
+2024,Areia Branca,BRRN006,0,154
+2024,Barra do Riacho,BRES006,0,414
+2024,Barra do Riacho,BRES008,0,16
+2024,Barra do Riacho,BRES010,0,27
+2024,Barra do Riacho,BRES013,0,14
+2024,Cabedelo (Instalação Isolada),BRCDO,1,105
+2024,Coari (Instalação Isolada),BRAM009,0,470
+2024,Corumbá,BRMS001,0,255
+2024,Corumbá,BRMS002,0,1721
+2024,Corumbá,BRMS022,0,32
+2024,Ilhéus,BRBA005,0,148
+2024,Ilhéus,BRIOS,1,21
+2024,Imbituba,BRIBB,1,365
+2024,Itaguaí,BRIGI,1,630
+2024,Itaguaí,BRRJ001,0,158
+2024,Itaguaí,BRRJ016,0,130
+2024,Itaguaí,BRRJ023,0,142
+2024,Itaguaí,BRRJ054,0,7
+2024,Itaituba,BRPA038,0,1672
+2024,Itaituba,BRPA045,0,2182
+2024,Itaituba,BRPA046,0,735
+2024,Itaituba,BRPA064,0,2
+2024,Itaituba,BRPA091,0,49
+2024,Itaituba,BRPA153,0,8
+2024,Itaituba,BRPA214,0,236
+2024,Itaituba,BRPA230,0,228
+2024,Itaituba,BRPA248,0,1193
+2024,Itaituba,BRPA249,0,297
+2024,Itajaí,BRITJ,1,97
+2024,Itajaí,BRSC001,0,17
+2024,Itajaí,BRSC008,0,482
+2024,Itajaí,BRSC012,0,31
+2024,Itajaí,BRSC013,0,13
+2024,Itajaí,BRSC017,0,1
+2024,Itaqui,BRIQI,1,968
+2024,Itaqui,BRMA001,0,343
+2024,Itaqui,BRMA002,0,661
+2024,LDC Pederneiras (Instalação Isolada),BRSP011,0,726
+2024,Macapá,BRAP003,0,2
+2024,Macapá,BRAP019,0,97
+2024,Macapá,BRMCP,1,518
+2024,Maceió,BRAL001,0,71
+2024,Maceió,BRMCZ,1,152
+2024,Manaus,BRAM001,0,1348
+2024,Manaus,BRAM003,0,10
+2024,Manaus,BRAM004,0,269
+2024,Manaus,BRAM006,0,204
+2024,Manaus,BRAM007,0,253
+2024,Manaus,BRAM008,0,397
+2024,Manaus,BRAM011,0,264
+2024,Manaus,BRAM012,0,181
+2024,Manaus,BRAM013,0,11
+2024,Manaus,BRAM014,0,2634
+2024,Manaus,BRAM016,0,586
+2024,Manaus,BRAM017,0,1001
+2024,Manaus,BRAM018,0,1
+2024,Manaus,BRAM021,0,523
+2024,Manaus,BRAM025,0,982
+2024,Manaus,BRAM028,0,153
+2024,Manaus,BRAM029,0,16
+2024,Manaus,BRAM032,0,14
+2024,Manaus,BRAM034,0,107
+2024,Manaus,BRAM069,0,31
+2024,Manaus,BRAM075,0,89
+2024,Manaus,BRAM081,0,14
+2024,Manaus,BRAM087,0,142
+2024,Manaus,BRAM088,0,241
+2024,Manaus,BRAM091,0,934
+2024,Manaus,BRAM104,0,74
+2024,Manaus,BRAM155,0,148
+2024,Natal,BRNAT,1,145
+2024,Natal,BRRN001,0,72
+2024,Paranaguá - Antonina,BRANT,1,105
+2024,Paranaguá - Antonina,BRPNG,1,2310
+2024,Paranaguá - Antonina,BRPR002,0,280
+2024,Pecém - Fortaleza,BRCE001,0,749
+2024,Pecém - Fortaleza,BRFOR,1,393
+2024,Porto Alegre,BRPOA,1,163
+2024,Porto Alegre,BRRS003,0,318
+2024,Porto Alegre,BRRS006,0,249
+2024,Porto Alegre,BRRS008,0,57
+2024,Porto Alegre,BRRS009,0,183
+2024,Porto Alegre,BRRS010,0,26
+2024,Porto Alegre,BRRS013,0,951
+2024,Porto Alegre,BRRS014,0,2
+2024,Porto Alegre,BRRS015,0,71
+2024,Porto Alegre,BRRS016,0,19
+2024,Porto Alegre,BRRS022,0,48
+2024,Porto Alegre,BRRS030,0,137
+2024,Porto Murtinho,BRMS011,0,12
+2024,Porto Velho,BRPVH,1,1321
+2024,Porto Velho,BRRO002,0,568
+2024,Porto Velho,BRRO003,0,133
+2024,Porto Velho,BRRO005,0,170
+2024,Porto Velho,BRRO006,0,422
+2024,Porto Velho,BRRO007,0,138
+2024,Porto Velho,BRRO009,0,359
+2024,Porto Velho,BRRO010,0,107
+2024,Porto Velho,BRRO011,0,30
+2024,Porto Velho,BRRO013,0,1429
+2024,Porto Velho,BRRO014,0,96
+2024,Porto Velho,BRRO022,0,115
+2024,Porto Velho,BRRO025,0,336
+2024,Porto Velho,BRRO030,0,168
+2024,Rio Grande,BRPET,1,392
+2024,Rio Grande,BRRIG,1,2343
+2024,Rio Grande,BRRS001,0,179
+2024,Rio Grande,BRRS002,0,399
+2024,Rio Grande,BRRS005,0,12
+2024,Rio Grande,BRRS007,0,65
+2024,Rio Grande,BRRS012,0,51
+2024,Rio de Janeiro -  Niterói,BRNTR,1,161
+2024,Rio de Janeiro -  Niterói,BRRIO,1,2134
+2024,Rio de Janeiro -  Niterói,BRRJ003,0,52
+2024,Rio de Janeiro -  Niterói,BRRJ008,0,45
+2024,Rio de Janeiro -  Niterói,BRRJ010,0,1134
+2024,Rio de Janeiro -  Niterói,BRRJ014,0,44
+2024,Rio de Janeiro -  Niterói,BRRJ015,0,14
+2024,Rio de Janeiro -  Niterói,BRRJ018,0,5
+2024,Rio de Janeiro -  Niterói,BRRJ019,0,38
+2024,Rio de Janeiro -  Niterói,BRRJ057,0,87
+2024,Rio de Janeiro -  Niterói,BRRJ066,0,43
+2024,Rio de Janeiro -  Niterói,BRRJ080,0,2
+2024,Santarém,BRPA017,0,714
+2024,Santarém,BRPA028,0,16
+2024,Santarém,BRPA237,0,460
+2024,Santarém,BRPA297,0,44
+2024,Santarém,BRSTM,1,3804
+2024,Santos,BRSP001,0,332
+2024,Santos,BRSP002,0,43
+2024,Santos,BRSP004,0,90
+2024,Santos,BRSP005,0,63
+2024,Santos,BRSP008,0,727
+2024,Santos,BRSP009,0,73
+2024,Santos,BRSSZ,1,4588
+2024,Sem complexo - Terminal Isolado,BRAM039,0,202
+2024,Sem complexo - Terminal Isolado,BRAM079,0,193
+2024,Sem complexo - Terminal Isolado,BRRN003,0,64
+2024,Suape - Recife,BRREC,1,363
+2024,Suape - Recife,BRSUA,1,1625
+2024,São Francisco do Sul,BRSC007,0,114
+2024,São Francisco do Sul,BRSC011,0,638
+2024,São Francisco do Sul,BRSFS,1,472
+2024,São João da Barra,BRRJ020,0,148
+2024,São João da Barra,BRRJ022,0,70
+2024,São João da Barra,BRRJ025,0,59
+2024,São João da Barra,BRRJ026,0,255
+2024,São João da Barra,BRRJ039,0,18
+2024,São João da Barra,BRRJ051,0,118
+2024,São João da Barra,BRRJ053,0,5010
+2024,São João da Barra,BRRJ067,0,327
+2024,São João da Barra,BRRJ074,0,6
+2024,São João da Barra,BRRJ078,0,205
+2024,São Sebastião,BRSP006,0,708
+2024,São Sebastião,BRSSO,1,102
+2024,São Simão,BRGO001,0,726
+2024,Tomé Açu,BRPA033,0,12
+2024,Vila do Conde - Belém,BRBEL,1,1010
+2024,Vila do Conde - Belém,BRPA005,0,552
+2024,Vila do Conde - Belém,BRPA006,0,29
+2024,Vila do Conde - Belém,BRPA013,0,1712
+2024,Vila do Conde - Belém,BRPA014,0,12
+2024,Vila do Conde - Belém,BRPA016,0,350
+2024,Vila do Conde - Belém,BRPA018,0,1576
+2024,Vila do Conde - Belém,BRPA043,0,2287
+2024,Vila do Conde - Belém,BRPA061,0,4
+2024,Vila do Conde - Belém,BRPA065,0,38
+2024,Vila do Conde - Belém,BRPA067,0,8
+2024,Vila do Conde - Belém,BRPA108,0,26
+2024,Vila do Conde - Belém,BRPA324,0,47
+2024,Vila do Conde - Belém,BRVDC,1,1643
+2024,Vitória,BRES001,0,476
+2024,Vitória,BRES002,0,112
+2024,Vitória,BRES003,0,156
+2024,Vitória,BRES004,0,261
+2024,Vitória,BRES005,0,131
+2024,Vitória,BRES007,0,52
+2024,Vitória,BRVIX,1,794
+2024,Vitória do Xingu,BRPA066,0,18
+2024,Óbidos,BRPA001,0,258
+2024,Óbidos,BRPA019,0,131
+2024,Óbidos,BRPA209,0,68
+2025,Almeirim,BRPA002,0,3
+2025,Almeirim,BRPA208,0,5
+2025,Angra dos Reis,BRADR,1,66
+2025,Angra dos Reis,BRRJ009,0,492
+2025,Angra dos Reis,BRRJ012,0,7
+2025,Aracajú,BRSE001,0,686
+2025,Aracajú,BRSE002,0,12
+2025,Aratu - Salvador,BRARB,1,451
+2025,Aratu - Salvador,BRBA002,0,73
+2025,Aratu - Salvador,BRBA003,0,404
+2025,Aratu - Salvador,BRBA006,0,44
+2025,Aratu - Salvador,BRBA007,0,133
+2025,Aratu - Salvador,BRBA009,0,4
+2025,Aratu - Salvador,BRBA012,0,23
+2025,Aratu - Salvador,BRBA013,0,2
+2025,Aratu - Salvador,BRSSA,1,518
+2025,Areia Branca,BRARE,1,1406
+2025,Areia Branca,BRRN004,0,384
+2025,Areia Branca,BRRN005,0,226
+2025,Areia Branca,BRRN006,0,139
+2025,Barra do Riacho,BRES006,0,408
+2025,Barra do Riacho,BRES008,0,9
+2025,Barra do Riacho,BRES010,0,22
+2025,Cabedelo (Instalação Isolada),BRCDO,1,84
+2025,Coari (Instalação Isolada),BRAM009,0,455
+2025,Corumbá,BRMS001,0,639
+2025,Corumbá,BRMS002,0,2967
+2025,Corumbá,BRMS022,0,86
+2025,Ilhéus,BRBA005,0,151
+2025,Ilhéus,BRIOS,1,20
+2025,Imbituba,BRIBB,1,330
+2025,Itaguaí,BRIGI,1,645
+2025,Itaguaí,BRRJ001,0,151
+2025,Itaguaí,BRRJ016,0,118
+2025,Itaguaí,BRRJ023,0,174
+2025,Itaguaí,BRRJ054,0,9
+2025,Itaituba,BRPA038,0,1817
+2025,Itaituba,BRPA045,0,2922
+2025,Itaituba,BRPA046,0,905
+2025,Itaituba,BRPA064,0,10
+2025,Itaituba,BRPA091,0,90
+2025,Itaituba,BRPA153,0,13
+2025,Itaituba,BRPA214,0,267
+2025,Itaituba,BRPA230,0,330
+2025,Itaituba,BRPA248,0,1093
+2025,Itaituba,BRPA249,0,333
+2025,Itajaí,BRITJ,1,384
+2025,Itajaí,BRSC001,0,9
+2025,Itajaí,BRSC008,0,480
+2025,Itajaí,BRSC012,0,40
+2025,Itajaí,BRSC013,0,21
+2025,Itajaí,BRSC017,0,1
+2025,Itaqui,BRIQI,1,979
+2025,Itaqui,BRMA001,0,334
+2025,Itaqui,BRMA002,0,638
+2025,LDC Pederneiras (Instalação Isolada),BRSP011,0,852
+2025,Macapá,BRAP019,0,131
+2025,Macapá,BRMCP,1,560
+2025,Maceió,BRAL001,0,42
+2025,Maceió,BRMCZ,1,165
+2025,Manaus,BRAM001,0,1247
+2025,Manaus,BRAM003,0,16
+2025,Manaus,BRAM004,0,19
+2025,Manaus,BRAM006,0,219
+2025,Manaus,BRAM007,0,219
+2025,Manaus,BRAM008,0,328
+2025,Manaus,BRAM011,0,311
+2025,Manaus,BRAM012,0,161
+2025,Manaus,BRAM013,0,7
+2025,Manaus,BRAM014,0,3192
+2025,Manaus,BRAM016,0,803
+2025,Manaus,BRAM017,0,897
+2025,Manaus,BRAM021,0,679
+2025,Manaus,BRAM025,0,1030
+2025,Manaus,BRAM028,0,146
+2025,Manaus,BRAM029,0,21
+2025,Manaus,BRAM034,0,101
+2025,Manaus,BRAM069,0,14
+2025,Manaus,BRAM075,0,43
+2025,Manaus,BRAM081,0,7
+2025,Manaus,BRAM087,0,193
+2025,Manaus,BRAM088,0,456
+2025,Manaus,BRAM091,0,1355
+2025,Manaus,BRAM104,0,7
+2025,Manaus,BRAM155,0,202
+2025,Natal,BRNAT,1,191
+2025,Natal,BRRN001,0,68
+2025,Paranaguá - Antonina,BRANT,1,81
+2025,Paranaguá - Antonina,BRPNG,1,2317
+2025,Paranaguá - Antonina,BRPR002,0,291
+2025,Pecém - Fortaleza,BRCE001,0,797
+2025,Pecém - Fortaleza,BRFOR,1,373
+2025,Porto Alegre,BRPOA,1,98
+2025,Porto Alegre,BRRS003,0,371
+2025,Porto Alegre,BRRS006,0,243
+2025,Porto Alegre,BRRS008,0,87
+2025,Porto Alegre,BRRS009,0,159
+2025,Porto Alegre,BRRS010,0,81
+2025,Porto Alegre,BRRS013,0,1008
+2025,Porto Alegre,BRRS014,0,15
+2025,Porto Alegre,BRRS015,0,100
+2025,Porto Alegre,BRRS016,0,20
+2025,Porto Alegre,BRRS022,0,60
+2025,Porto Alegre,BRRS030,0,162
+2025,Porto Murtinho,BRMS011,0,23
+2025,Porto Velho,BRPVH,1,1258
+2025,Porto Velho,BRRO002,0,549
+2025,Porto Velho,BRRO003,0,125
+2025,Porto Velho,BRRO005,0,128
+2025,Porto Velho,BRRO006,0,134
+2025,Porto Velho,BRRO007,0,132
+2025,Porto Velho,BRRO009,0,385
+2025,Porto Velho,BRRO010,0,131
+2025,Porto Velho,BRRO011,0,37
+2025,Porto Velho,BRRO013,0,2014
+2025,Porto Velho,BRRO014,0,233
+2025,Porto Velho,BRRO022,0,96
+2025,Porto Velho,BRRO025,0,284
+2025,Porto Velho,BRRO030,0,133
+2025,Rio Grande,BRPET,1,499
+2025,Rio Grande,BRRIG,1,2510
+2025,Rio Grande,BRRS001,0,208
+2025,Rio Grande,BRRS002,0,387
+2025,Rio Grande,BRRS007,0,112
+2025,Rio Grande,BRRS012,0,43
+2025,Rio de Janeiro -  Niterói,BRNTR,1,338
+2025,Rio de Janeiro -  Niterói,BRRIO,1,5324
+2025,Rio de Janeiro -  Niterói,BRRJ003,0,38
+2025,Rio de Janeiro -  Niterói,BRRJ008,0,63
+2025,Rio de Janeiro -  Niterói,BRRJ010,0,1214
+2025,Rio de Janeiro -  Niterói,BRRJ014,0,47
+2025,Rio de Janeiro -  Niterói,BRRJ015,0,14
+2025,Rio de Janeiro -  Niterói,BRRJ018,0,7
+2025,Rio de Janeiro -  Niterói,BRRJ019,0,26
+2025,Rio de Janeiro -  Niterói,BRRJ055,0,5
+2025,Rio de Janeiro -  Niterói,BRRJ057,0,63
+2025,Rio de Janeiro -  Niterói,BRRJ066,0,52
+2025,Rio de Janeiro -  Niterói,BRRJ080,0,5
+2025,Santarém,BRPA017,0,626
+2025,Santarém,BRPA028,0,30
+2025,Santarém,BRPA237,0,462
+2025,Santarém,BRPA297,0,43
+2025,Santarém,BRSTM,1,3810
+2025,Santos,BRSP001,0,343
+2025,Santos,BRSP002,0,35
+2025,Santos,BRSP004,0,102
+2025,Santos,BRSP005,0,73
+2025,Santos,BRSP008,0,713
+2025,Santos,BRSP009,0,156
+2025,Santos,BRSSZ,1,4762
+2025,Sem complexo - Terminal Isolado,BRAM039,0,142
+2025,Sem complexo - Terminal Isolado,BRAM079,0,131
+2025,Sem complexo - Terminal Isolado,BRRN003,0,137
+2025,Sem complexo - Terminal Isolado,BRRS025,0,2
+2025,Suape - Recife,BRREC,1,322
+2025,Suape - Recife,BRSUA,1,1566
+2025,São Francisco do Sul,BRSC007,0,111
+2025,São Francisco do Sul,BRSC011,0,692
+2025,São Francisco do Sul,BRSFS,1,467
+2025,São João da Barra,BRRJ020,0,141
+2025,São João da Barra,BRRJ022,0,80
+2025,São João da Barra,BRRJ025,0,88
+2025,São João da Barra,BRRJ026,0,217
+2025,São João da Barra,BRRJ039,0,49
+2025,São João da Barra,BRRJ051,0,119
+2025,São João da Barra,BRRJ053,0,5451
+2025,São João da Barra,BRRJ067,0,384
+2025,São João da Barra,BRRJ074,0,13
+2025,São João da Barra,BRRJ078,0,169
+2025,São Sebastião,BRSP006,0,711
+2025,São Sebastião,BRSSO,1,107
+2025,São Simão,BRGO001,0,854
+2025,Tomé Açu,BRPA033,0,4
+2025,Vila do Conde - Belém,BRBEL,1,690
+2025,Vila do Conde - Belém,BRPA005,0,440
+2025,Vila do Conde - Belém,BRPA006,0,18
+2025,Vila do Conde - Belém,BRPA013,0,1555
+2025,Vila do Conde - Belém,BRPA014,0,4
+2025,Vila do Conde - Belém,BRPA016,0,310
+2025,Vila do Conde - Belém,BRPA018,0,1988
+2025,Vila do Conde - Belém,BRPA043,0,2897
+2025,Vila do Conde - Belém,BRPA061,0,33
+2025,Vila do Conde - Belém,BRPA065,0,21
+2025,Vila do Conde - Belém,BRPA108,0,25
+2025,Vila do Conde - Belém,BRPA324,0,154
+2025,Vila do Conde - Belém,BRVDC,1,1677
+2025,Vitória,BRES001,0,528
+2025,Vitória,BRES002,0,141
+2025,Vitória,BRES003,0,147
+2025,Vitória,BRES004,0,259
+2025,Vitória,BRES005,0,165
+2025,Vitória,BRES007,0,48
+2025,Vitória,BRVIX,1,812
+2025,Vitória do Xingu,BRPA066,0,34
+2025,Óbidos,BRPA001,0,223
+2025,Óbidos,BRPA019,0,139
+2025,Óbidos,BRPA209,0,110
+2026,Almeirim,BRPA208,0,1
+2026,Angra dos Reis,BRADR,1,37
+2026,Angra dos Reis,BRRJ009,0,79
+2026,Aracajú,BRSE001,0,120
+2026,Aracajú,BRSE002,0,2
+2026,Aratu - Salvador,BRARB,1,69
+2026,Aratu - Salvador,BRBA002,0,11
+2026,Aratu - Salvador,BRBA003,0,83
+2026,Aratu - Salvador,BRBA006,0,6
+2026,Aratu - Salvador,BRBA007,0,16
+2026,Aratu - Salvador,BRBA009,0,1
+2026,Aratu - Salvador,BRBA012,0,2
+2026,Aratu - Salvador,BRSSA,1,73
+2026,Areia Branca,BRARE,1,269
+2026,Areia Branca,BRRN004,0,93
+2026,Areia Branca,BRRN005,0,64
+2026,Areia Branca,BRRN006,0,29
+2026,Barra do Riacho,BRES006,0,62
+2026,Barra do Riacho,BRES008,0,1
+2026,Barra do Riacho,BRES010,0,4
+2026,Cabedelo (Instalação Isolada),BRCDO,1,15
+2026,Coari (Instalação Isolada),BRAM009,0,76
+2026,Corumbá,BRMS001,0,83
+2026,Corumbá,BRMS002,0,557
+2026,Corumbá,BRMS022,0,17
+2026,Ilhéus,BRBA005,0,23
+2026,Ilhéus,BRIOS,1,5
+2026,Imbituba,BRIBB,1,70
+2026,Itaguaí,BRIGI,1,97
+2026,Itaguaí,BRRJ001,0,23
+2026,Itaguaí,BRRJ016,0,15
+2026,Itaguaí,BRRJ023,0,21
+2026,Itaguaí,BRRJ054,0,1
+2026,Itaituba,BRPA038,0,201
+2026,Itaituba,BRPA045,0,264
+2026,Itaituba,BRPA046,0,101
+2026,Itaituba,BRPA064,0,2
+2026,Itaituba,BRPA091,0,11
+2026,Itaituba,BRPA153,0,3
+2026,Itaituba,BRPA214,0,71
+2026,Itaituba,BRPA230,0,67
+2026,Itaituba,BRPA248,0,180
+2026,Itaituba,BRPA249,0,48
+2026,Itajaí,BRITJ,1,66
+2026,Itajaí,BRSC008,0,77
+2026,Itajaí,BRSC012,0,7
+2026,Itajaí,BRSC013,0,2
+2026,Itaqui,BRIQI,1,122
+2026,Itaqui,BRMA001,0,57
+2026,Itaqui,BRMA002,0,74
+2026,LDC Pederneiras (Instalação Isolada),BRSP011,0,3
+2026,Macapá,BRAP019,0,24
+2026,Macapá,BRMCP,1,26
+2026,Maceió,BRAL001,0,2
+2026,Maceió,BRMCZ,1,23
+2026,Manaus,BRAM001,0,191
+2026,Manaus,BRAM003,0,3
+2026,Manaus,BRAM006,0,38
+2026,Manaus,BRAM007,0,35
+2026,Manaus,BRAM008,0,45
+2026,Manaus,BRAM011,0,82
+2026,Manaus,BRAM012,0,25
+2026,Manaus,BRAM014,0,533
+2026,Manaus,BRAM016,0,146
+2026,Manaus,BRAM017,0,109
+2026,Manaus,BRAM021,0,110
+2026,Manaus,BRAM025,0,189
+2026,Manaus,BRAM028,0,21
+2026,Manaus,BRAM034,0,6
+2026,Manaus,BRAM069,0,5
+2026,Manaus,BRAM075,0,14
+2026,Manaus,BRAM087,0,8
+2026,Manaus,BRAM088,0,84
+2026,Manaus,BRAM091,0,119
+2026,Manaus,BRAM104,0,15
+2026,Manaus,BRAM155,0,36
+2026,Natal,BRNAT,1,42
+2026,Natal,BRRN001,0,9
+2026,Não Classificado,BRRO040,0,138
+2026,Paranaguá - Antonina,BRANT,1,5
+2026,Paranaguá - Antonina,BRPNG,1,336
+2026,Paranaguá - Antonina,BRPR002,0,50
+2026,Pecém - Fortaleza,BRCE001,0,134
+2026,Pecém - Fortaleza,BRFOR,1,53
+2026,Porto Alegre,BRPOA,1,5
+2026,Porto Alegre,BRRS003,0,53
+2026,Porto Alegre,BRRS006,0,55
+2026,Porto Alegre,BRRS008,0,20
+2026,Porto Alegre,BRRS009,0,32
+2026,Porto Alegre,BRRS010,0,13
+2026,Porto Alegre,BRRS013,0,146
+2026,Porto Alegre,BRRS014,0,3
+2026,Porto Alegre,BRRS015,0,16
+2026,Porto Alegre,BRRS016,0,3
+2026,Porto Alegre,BRRS022,0,7
+2026,Porto Alegre,BRRS030,0,16
+2026,Porto Velho,BRPVH,1,227
+2026,Porto Velho,BRRO002,0,84
+2026,Porto Velho,BRRO003,0,17
+2026,Porto Velho,BRRO005,0,20
+2026,Porto Velho,BRRO007,0,16
+2026,Porto Velho,BRRO009,0,61
+2026,Porto Velho,BRRO010,0,23
+2026,Porto Velho,BRRO011,0,5
+2026,Porto Velho,BRRO013,0,338
+2026,Porto Velho,BRRO014,0,143
+2026,Porto Velho,BRRO022,0,13
+2026,Porto Velho,BRRO025,0,44
+2026,Porto Velho,BRRO030,0,21
+2026,Rio Grande,BRPET,1,76
+2026,Rio Grande,BRRIG,1,345
+2026,Rio Grande,BRRS001,0,19
+2026,Rio Grande,BRRS002,0,74
+2026,Rio Grande,BRRS007,0,10
+2026,Rio Grande,BRRS012,0,9
+2026,Rio de Janeiro -  Niterói,BRNTR,1,88
+2026,Rio de Janeiro -  Niterói,BRRIO,1,838
+2026,Rio de Janeiro -  Niterói,BRRJ003,0,5
+2026,Rio de Janeiro -  Niterói,BRRJ008,0,18
+2026,Rio de Janeiro -  Niterói,BRRJ010,0,195
+2026,Rio de Janeiro -  Niterói,BRRJ014,0,5
+2026,Rio de Janeiro -  Niterói,BRRJ015,0,3
+2026,Rio de Janeiro -  Niterói,BRRJ018,0,1
+2026,Rio de Janeiro -  Niterói,BRRJ019,0,3
+2026,Rio de Janeiro -  Niterói,BRRJ057,0,16
+2026,Rio de Janeiro -  Niterói,BRRJ066,0,6
+2026,Rio de Janeiro -  Niterói,BRRJ080,0,3
+2026,Santarém,BRPA017,0,92
+2026,Santarém,BRPA028,0,1
+2026,Santarém,BRPA237,0,81
+2026,Santarém,BRPA297,0,8
+2026,Santarém,BRSTM,1,641
+2026,Santos,BRSP001,0,38
+2026,Santos,BRSP002,0,4
+2026,Santos,BRSP004,0,16
+2026,Santos,BRSP005,0,11
+2026,Santos,BRSP008,0,116
+2026,Santos,BRSP009,0,38
+2026,Santos,BRSSZ,1,702
+2026,Sem complexo - Terminal Isolado,BRAM039,0,25
+2026,Sem complexo - Terminal Isolado,BRAM079,0,32
+2026,Sem complexo - Terminal Isolado,BRRN003,0,30
+2026,Suape - Recife,BRREC,1,54
+2026,Suape - Recife,BRSUA,1,269
+2026,São Francisco do Sul,BRSC007,0,21
+2026,São Francisco do Sul,BRSC011,0,101
+2026,São Francisco do Sul,BRSFS,1,54
+2026,São João da Barra,BRRJ020,0,24
+2026,São João da Barra,BRRJ022,0,12
+2026,São João da Barra,BRRJ025,0,18
+2026,São João da Barra,BRRJ026,0,44
+2026,São João da Barra,BRRJ039,0,7
+2026,São João da Barra,BRRJ051,0,21
+2026,São João da Barra,BRRJ053,0,672
+2026,São João da Barra,BRRJ067,0,85
+2026,São João da Barra,BRRJ078,0,67
+2026,São Sebastião,BRSP006,0,116
+2026,São Sebastião,BRSSO,1,15
+2026,São Simão,BRGO001,0,28
+2026,Vila do Conde - Belém,BRBEL,1,86
+2026,Vila do Conde - Belém,BRPA005,0,205
+2026,Vila do Conde - Belém,BRPA013,0,213
+2026,Vila do Conde - Belém,BRPA016,0,44
+2026,Vila do Conde - Belém,BRPA018,0,185
+2026,Vila do Conde - Belém,BRPA043,0,315
+2026,Vila do Conde - Belém,BRPA061,0,12
+2026,Vila do Conde - Belém,BRPA065,0,2
+2026,Vila do Conde - Belém,BRPA108,0,2
+2026,Vila do Conde - Belém,BRPA324,0,18
+2026,Vila do Conde - Belém,BRVDC,1,210
+2026,Vitória,BRES001,0,76
+2026,Vitória,BRES002,0,23
+2026,Vitória,BRES003,0,23
+2026,Vitória,BRES004,0,42
+2026,Vitória,BRES005,0,27
+2026,Vitória,BRES007,0,10
+2026,Vitória,BRVIX,1,135
+2026,Vitória do Xingu,BRPA066,0,5
+2026,Óbidos,BRPA001,0,32
+2026,Óbidos,BRPA019,0,24
+2026,Óbidos,BRPA209,0,19
