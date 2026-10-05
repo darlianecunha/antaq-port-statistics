@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use this dataset, please cite it as below."
 type: dataset
 title: "Brazil Port Data: consolidated ANTAQ port statistics, 2010-2026"
-version: "1.0"
+version: "v1.0.1"
 license: ODbL-1.0
 url: "https://brazilportdata.com"
 authors:
