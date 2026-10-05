@@ -43,8 +43,7 @@ Notes
 
 ## How to cite
 
-> Cunha, D. R. (2026). *Brazil Port Data: consolidated ANTAQ port statistics, 2010-2026* (Version 1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
-
+> Cunha, D. R. (2026). *Brazil Port Data: consolidated ANTAQ port statistics, 2010-2026* (Version 1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23158268
 ## Quick start
 
 ```python
